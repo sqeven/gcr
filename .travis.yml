@@ -6,4 +6,4 @@ script:
   - ./gcr.sh
 branches:
   only:
-    - sync
+    - seven
