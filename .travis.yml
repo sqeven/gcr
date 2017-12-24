@@ -1,0 +1,9 @@
+services:
+  - docker
+script:
+  - docker login -u${user_name} -p${pass_word}
+  - chmod +x ./gcr.sh
+  - ./gcr.sh
+branches:
+  only:
+    - seven
