@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last seven 2017-12-28 13:54 UTC]
+Google Container Registry Mirror [last seven 2017-12-29 13:54 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
@@ -371,6 +371,8 @@ Images
 [gcr.io/google_containers/ip-masq-agent-ppc64le √](https://hub.docker.com/r/sqeven/ip-masq-agent-ppc64le/tags/)
 
 [gcr.io/google_containers/jessie-dnsutils √](https://hub.docker.com/r/sqeven/jessie-dnsutils/tags/)
+
+[gcr.io/google_containers/jsandtest √](https://hub.docker.com/r/sqeven/jsandtest/tags/)
 
 [gcr.io/google_containers/k8s-custom-iptables √](https://hub.docker.com/r/sqeven/k8s-custom-iptables/tags/)
 
@@ -829,8 +831,6 @@ Images
 [gcr.io/google_containers/submit-queue √](https://hub.docker.com/r/sqeven/submit-queue/tags/)
 
 [gcr.io/google_containers/tensorflow-gpu-notebook √](https://hub.docker.com/r/sqeven/tensorflow-gpu-notebook/tags/)
-
-[gcr.io/google_containers/test-subdir √](https://hub.docker.com/r/sqeven/test-subdir/tags/)
 
 [gcr.io/google_containers/test-webserver √](https://hub.docker.com/r/sqeven/test-webserver/tags/)
 
