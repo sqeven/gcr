@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-controller-manager-s390x](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-controller-manager-s390x:v1.7.12 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)**
-
 **[gcr.io/google_containers/kube-controller-manager-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)**
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.9.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)

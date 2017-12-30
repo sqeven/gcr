@@ -1,8 +1,6 @@
 [gcr.io/google-containers/perfdash](https://hub.docker.com/r/sqeven/perfdash/tags/) 
 
 ----
-**[gcr.io/google_containers/perfdash:0.8 updated](https://hub.docker.com/r/sqeven/perfdash/tags/)**
-
 [gcr.io/google_containers/perfdash:0.8-test √](https://hub.docker.com/r/sqeven/perfdash/tags/)
 
 [gcr.io/google_containers/perfdash:0.8 √](https://hub.docker.com/r/sqeven/perfdash/tags/)

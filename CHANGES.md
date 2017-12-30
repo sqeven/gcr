@@ -1,3 +1,53 @@
+## 2017-12-30 
+
+1. [gcr.io/google_containers/cloud-controller-manager:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-amd64:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm64:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-arm:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-arm/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-arm64:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-ppc64le:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-aggregator-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler-s390x:v1.7.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/) 
+
+
 ## 2017-12-29 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
