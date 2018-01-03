@@ -1,3 +1,14 @@
+## 2018-01-03 
+
+1. [gcr.io/google_containers/check-metadata-concealment:v0.0.3 updated](https://hub.docker.com/r/sqeven/check-metadata-concealment/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.12 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
+
+
+1. [gcr.io/google_containers/metadata-proxy:v0.1.7 updated](https://hub.docker.com/r/sqeven/metadata-proxy/tags/) 
+
+
 ## 2017-12-30 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.7.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
