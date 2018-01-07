@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-dnsmasq-arm](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/k8s-dns-dnsmasq-arm:1.14.8 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm/tags/)**
-
 [gcr.io/google_containers/k8s-dns-dnsmasq-arm:1.14.8 √](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm/tags/)
 
 [gcr.io/google_containers/k8s-dns-dnsmasq-arm:1.14.7 √](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm/tags/)
