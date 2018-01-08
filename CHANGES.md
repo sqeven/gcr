@@ -1,3 +1,8 @@
+## 2018-01-08 
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.13 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
+
+
 ## 2018-01-06 
 
 1. [gcr.io/google_containers/k8s-dns-dnsmasq-amd64:1.14.8 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-amd64/tags/) 
