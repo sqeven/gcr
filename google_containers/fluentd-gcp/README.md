@@ -1,8 +1,6 @@
 [gcr.io/google-containers/fluentd-gcp](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
 
 ----
-**[gcr.io/google_containers/fluentd-gcp:2.0.13 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/)**
-
 [gcr.io/google_containers/fluentd-gcp:2.0.9 √](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/)
 
 [gcr.io/google_containers/fluentd-gcp:2.0.8 √](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/)
