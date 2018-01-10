@@ -1,6 +1,8 @@
 [gcr.io/google-containers/cadvisor](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
 
 ----
+**[gcr.io/google_containers/cadvisor:v0.27.4 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/)**
+
 [gcr.io/google_containers/cadvisor:v0.28.3 √](https://hub.docker.com/r/sqeven/cadvisor/tags/)
 
 [gcr.io/google_containers/cadvisor:v0.28.2 √](https://hub.docker.com/r/sqeven/cadvisor/tags/)
@@ -8,6 +10,8 @@
 [gcr.io/google_containers/cadvisor:v0.28.1 √](https://hub.docker.com/r/sqeven/cadvisor/tags/)
 
 [gcr.io/google_containers/cadvisor:v0.28.0 √](https://hub.docker.com/r/sqeven/cadvisor/tags/)
+
+[gcr.io/google_containers/cadvisor:v0.27.4 √](https://hub.docker.com/r/sqeven/cadvisor/tags/)
 
 [gcr.io/google_containers/cadvisor:v0.27.3 √](https://hub.docker.com/r/sqeven/cadvisor/tags/)
 

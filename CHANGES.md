@@ -1,3 +1,8 @@
+## 2018-01-10 
+
+1. [gcr.io/google_containers/cadvisor:v0.27.4 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
 ## 2018-01-08 
 
 1. [gcr.io/google_containers/fluentd-gcp:2.0.13 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
