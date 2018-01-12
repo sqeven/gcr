@@ -1,3 +1,11 @@
+## 2018-01-12 
+
+1. [gcr.io/google_containers/perfdash:0.9 updated](https://hub.docker.com/r/sqeven/perfdash/tags/) 
+
+
+1. [gcr.io/google_containers/perfdash:0.10 updated](https://hub.docker.com/r/sqeven/perfdash/tags/) 
+
+
 ## 2018-01-11 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:cd8732e3c25fe61223e0f37d5f496171833afc14 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
