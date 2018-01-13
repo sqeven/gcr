@@ -1,3 +1,8 @@
+## 2018-01-13 
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.0.3 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
+
+
 ## 2018-01-12 
 
 1. [gcr.io/google_containers/perfdash:0.9 updated](https://hub.docker.com/r/sqeven/perfdash/tags/) 
