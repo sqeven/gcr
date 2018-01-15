@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kubernetes-dashboard-ppc64le](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.8.2 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/)**
+
+[gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.8.2 √](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/)
+
 [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.8.1 √](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/)
 
 [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.8.0 √](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/)
