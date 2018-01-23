@@ -1,3 +1,23 @@
+## 2018-01-23 
+
+1. [gcr.io/google_containers/debian-hyperkube-base-amd64:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-arm:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-arm64:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-s390x:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/slo-monitor:0.10.0 updated](https://hub.docker.com/r/sqeven/slo-monitor/tags/) 
+
+
 ## 2018-01-20 
 
 1. [gcr.io/google_containers/metadata-proxy:v0.1.9 updated](https://hub.docker.com/r/sqeven/metadata-proxy/tags/) 
