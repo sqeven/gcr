@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-hyperkube-base-amd64](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/debian-hyperkube-base-amd64:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/)**
-
 [gcr.io/google_containers/debian-hyperkube-base-amd64:0.9 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/)
 
 [gcr.io/google_containers/debian-hyperkube-base-amd64:0.8 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/)

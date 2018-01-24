@@ -1,3 +1,32 @@
+## 2018-01-24 
+
+1. [gcr.io/google_containers/etcd:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/gcsweb-amd64:v1.0.5 updated](https://hub.docker.com/r/sqeven/gcsweb-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/gcsweb-amd64:v1.0.6 updated](https://hub.docker.com/r/sqeven/gcsweb-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/toolbox:20180123-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
+
+
 ## 2018-01-23 
 
 1. [gcr.io/google_containers/debian-hyperkube-base-amd64:0.9 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/) 
