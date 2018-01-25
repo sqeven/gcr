@@ -1,3 +1,17 @@
+## 2018-01-25 
+
+1. [gcr.io/google_containers/kube-addon-manager:v8.5 updated](https://hub.docker.com/r/sqeven/kube-addon-manager/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-amd64:v8.5 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-01-24 
 
 1. [gcr.io/google_containers/etcd:3.2.14 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
