@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-apiserver-ppc64le](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.0-alpha.3 updated](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)**
+
 [gcr.io/google_containers/kube-apiserver-ppc64le:v1.9.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-apiserver-ppc64le:v1.9.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)
@@ -260,6 +262,8 @@
 [gcr.io/google_containers/kube-apiserver-ppc64le:v1.3.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-apiserver-ppc64le:v1.3.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)
+
+[gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-apiserver-ppc64le:v1.10.0-alpha.2 √](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/)
 
