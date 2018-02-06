@@ -1,3 +1,11 @@
+## 2018-02-06 
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.10.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
 ## 2018-02-03 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.0.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 

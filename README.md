@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-02-05 14:12 UTC]
+Google Container Registry Mirror [last seven 2018-02-06 14:13 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 429's gcr.io images
+Total of 430's gcr.io images
 -------
 
 Useage
@@ -441,6 +441,8 @@ Images
 [gcr.io/google_containers/k8s-dns-sidecar-s390x √](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-s390x/tags/)
 
 [gcr.io/google_containers/k8s-jupyterhub √](https://hub.docker.com/r/sqeven/k8s-jupyterhub/tags/)
+
+[gcr.io/google_containers/k8s-tpu-operator √](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/)
 
 [gcr.io/google_containers/kibana √](https://hub.docker.com/r/sqeven/kibana/tags/)
 
