@@ -1,3 +1,11 @@
+## 2018-02-07 
+
+1. [gcr.io/google_containers/git-sync:v2.0.6 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
+1. [gcr.io/google_containers/git-sync-amd64:v2.0.6 updated](https://hub.docker.com/r/sqeven/git-sync-amd64/tags/) 
+
+
 ## 2018-02-06 
 
 1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.10.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
