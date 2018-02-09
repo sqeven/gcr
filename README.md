@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-02-08 14:15 UTC]
+Google Container Registry Mirror [last seven 2018-02-09 14:14 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 430's gcr.io images
+Total of 431's gcr.io images
 -------
 
 Useage
@@ -257,6 +257,8 @@ Images
 [gcr.io/google_containers/fluentd-elasticsearch √](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/)
 
 [gcr.io/google_containers/fluentd-gcp √](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/)
+
+[gcr.io/google_containers/fluentd-gcp-scaler √](https://hub.docker.com/r/sqeven/fluentd-gcp-scaler/tags/)
 
 [gcr.io/google_containers/fluentd-journal-gcp √](https://hub.docker.com/r/sqeven/fluentd-journal-gcp/tags/)
 

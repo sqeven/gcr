@@ -1,3 +1,26 @@
+## 2018-02-09 
+
+1. [gcr.io/google_containers/fluentd-gcp-scaler:0.1 updated](https://hub.docker.com/r/sqeven/fluentd-gcp-scaler/tags/) 
+
+
+1. [gcr.io/google_containers/heapster:v1.5.1 updated](https://hub.docker.com/r/sqeven/heapster/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-amd64:v1.5.1 updated](https://hub.docker.com/r/sqeven/heapster-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-arm:v1.5.1 updated](https://hub.docker.com/r/sqeven/heapster-arm/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-arm64:v1.5.1 updated](https://hub.docker.com/r/sqeven/heapster-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-ppc64le:v1.5.1 updated](https://hub.docker.com/r/sqeven/heapster-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-s390x:v1.5.1 updated](https://hub.docker.com/r/sqeven/heapster-s390x/tags/) 
+
+
 ## 2018-02-07 
 
 1. [gcr.io/google_containers/git-sync:v2.0.6 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
