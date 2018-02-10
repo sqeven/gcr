@@ -1,7 +1,19 @@
 [gcr.io/google-containers/cloud-controller-manager-ppc64le](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.8 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)**
+
+**[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.9-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)**
+
+**[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.4-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)**
+
+**[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.3 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)**
+
+[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.4-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
+
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.3-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.3 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.2-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
 
@@ -27,7 +39,11 @@
 
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
 
+[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.9-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
+
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.8-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.8 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.7-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
 
