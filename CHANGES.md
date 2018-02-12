@@ -1,3 +1,8 @@
+## 2018-02-12 
+
+1. [gcr.io/google_containers/event-exporter:v0.1.8 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/) 
+
+
 ## 2018-02-10 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.8.8 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
