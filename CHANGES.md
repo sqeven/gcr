@@ -1,3 +1,17 @@
+## 2018-02-14 
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.0.4 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.15 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.2.4 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2018-02-13 
 
 1. [gcr.io/google_containers/debian-base-amd64:0.3 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
