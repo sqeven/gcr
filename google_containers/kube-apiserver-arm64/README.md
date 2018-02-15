@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-apiserver-arm64](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-apiserver-arm64:v1.11.0-alpha.0 updated](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)**
+
+**[gcr.io/google_containers/kube-apiserver-arm64:v1.10.0-beta.0 updated](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)**
+
 [gcr.io/google_containers/kube-apiserver-arm64:v1.9.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-arm64:v1.9.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
@@ -400,6 +404,10 @@
 [gcr.io/google_containers/kube-apiserver-arm64:v1.3.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-arm64:v1.3.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
+
+[gcr.io/google_containers/kube-apiserver-arm64:v1.11.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
+
+[gcr.io/google_containers/kube-apiserver-arm64:v1.10.0-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-arm64:v1.10.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/)
 
