@@ -1,3 +1,11 @@
+## 2018-02-16 
+
+1. [gcr.io/google_containers/etcd-version-monitor:0.1.2-rc.0 updated](https://hub.docker.com/r/sqeven/etcd-version-monitor/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.16 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
+
+
 ## 2018-02-15 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.0-alpha.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 

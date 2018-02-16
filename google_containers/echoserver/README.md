@@ -1,8 +1,6 @@
 [gcr.io/google-containers/echoserver](https://hub.docker.com/r/sqeven/echoserver/tags/) 
 
 ----
-**[gcr.io/google_containers/echoserver:1.9 updated](https://hub.docker.com/r/sqeven/echoserver/tags/)**
-
 [gcr.io/google_containers/echoserver:1.9 √](https://hub.docker.com/r/sqeven/echoserver/tags/)
 
 [gcr.io/google_containers/echoserver:1.8 √](https://hub.docker.com/r/sqeven/echoserver/tags/)
