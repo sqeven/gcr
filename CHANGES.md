@@ -1,3 +1,8 @@
+## 2018-02-19 
+
+1. [gcr.io/google_containers/etcd:3.1.11-experimental.1 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
 ## 2018-02-16 
 
 1. [gcr.io/google_containers/etcd-version-monitor:0.1.2-rc.0 updated](https://hub.docker.com/r/sqeven/etcd-version-monitor/tags/) 
