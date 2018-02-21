@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-addon-manager-s390x](https://hub.docker.com/r/sqeven/kube-addon-manager-s390x/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-addon-manager-s390x:v8.6 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-s390x/tags/)**
+
+[gcr.io/google_containers/kube-addon-manager-s390x:v8.6 √](https://hub.docker.com/r/sqeven/kube-addon-manager-s390x/tags/)
+
 [gcr.io/google_containers/kube-addon-manager-s390x:v6.5 √](https://hub.docker.com/r/sqeven/kube-addon-manager-s390x/tags/)
 
 [gcr.io/google_containers/kube-addon-manager-s390x:v6.4-beta.2 √](https://hub.docker.com/r/sqeven/kube-addon-manager-s390x/tags/)
