@@ -1,3 +1,8 @@
+## 2018-02-22 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2018-02-21 
 
 1. [gcr.io/google_containers/cadvisor:v0.29.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
