@@ -1,3 +1,8 @@
+## 2018-02-24 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2018-02-23 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
