@@ -1,3 +1,14 @@
+## 2018-02-27 
+
+1. [gcr.io/google_containers/etcd:3.1.11-gke.0 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:0c9a43fa8ab044677cfe1e3b23d3dc5a142406f5 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:0c9a43fa8ab044677cfe1e3b23d3dc5a142406f5 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-02-24 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
