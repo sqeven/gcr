@@ -1,3 +1,8 @@
+## 2018-02-28 
+
+1. [gcr.io/google_containers/k8s-tpu-operator:1.0 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
 ## 2018-02-27 
 
 1. [gcr.io/google_containers/etcd:3.1.11-gke.0 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
