@@ -1,8 +1,6 @@
 [gcr.io/google-containers/etcd-s390x](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/etcd-s390x:3.2.16 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/)**
-
 [gcr.io/google_containers/etcd-s390x:3.2.16 √](https://hub.docker.com/r/sqeven/etcd-s390x/tags/)
 
 [gcr.io/google_containers/etcd-s390x:3.2.14 √](https://hub.docker.com/r/sqeven/etcd-s390x/tags/)
