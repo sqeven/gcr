@@ -1,3 +1,14 @@
+## 2018-03-06 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.1.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.11-gke.1 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/tf-models:1.6.0 updated](https://hub.docker.com/r/sqeven/tf-models/tags/) 
+
+
 ## 2018-03-02 
 
 1. [gcr.io/google_containers/etcd:3.1.11-experimental.2 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
