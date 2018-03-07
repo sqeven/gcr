@@ -1,3 +1,14 @@
+## 2018-03-07 
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v7 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v10 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ip-masq-agent-amd64:v2.0.2 updated](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/) 
+
+
 ## 2018-03-06 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.1.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
