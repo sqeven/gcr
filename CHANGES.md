@@ -1,3 +1,11 @@
+## 2018-03-09 
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.11.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
 ## 2018-03-08 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.0-beta.2 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 

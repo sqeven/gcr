@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-aggregator](https://hub.docker.com/r/sqeven/kube-aggregator/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-aggregator:v1.10.0-beta.2 updated](https://hub.docker.com/r/sqeven/kube-aggregator/tags/)**
-
 [gcr.io/google_containers/kube-aggregator:v1.9.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator/tags/)
 
 [gcr.io/google_containers/kube-aggregator:v1.9.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator/tags/)
