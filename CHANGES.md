@@ -1,3 +1,29 @@
+## 2018-03-10 
+
+1. [gcr.io/google_containers/etcd:3.1.12 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.12 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.1.12 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.1.12 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.12.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.1.12 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.1.12 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/toolbox:20180309-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
+
+
 ## 2018-03-09 
 
 1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.11.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
