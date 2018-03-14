@@ -1,7 +1,13 @@
 [gcr.io/google-containers/hyperkube-amd64](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube-amd64:v1.10.0-beta.4 updated](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)**
+
+[gcr.io/google_containers/hyperkube-amd64:v1.9.5-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
 [gcr.io/google_containers/hyperkube-amd64:v1.9.4-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
+[gcr.io/google_containers/hyperkube-amd64:v1.9.4 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.9.3-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
@@ -33,6 +39,8 @@
 
 [gcr.io/google_containers/hyperkube-amd64:v1.8.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
+[gcr.io/google_containers/hyperkube-amd64:v1.8.9 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
 [gcr.io/google_containers/hyperkube-amd64:v1.8.8-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.8.8 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
@@ -62,6 +70,8 @@
 [gcr.io/google_containers/hyperkube-amd64:v1.8.2 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.8.1-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
+[gcr.io/google_containers/hyperkube-amd64:v1.8.10-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.8.1 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
@@ -115,7 +125,11 @@
 
 [gcr.io/google_containers/hyperkube-amd64:v1.7.1-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
+[gcr.io/google_containers/hyperkube-amd64:v1.7.15-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
 [gcr.io/google_containers/hyperkube-amd64:v1.7.14-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
+[gcr.io/google_containers/hyperkube-amd64:v1.7.14 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.7.13-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
@@ -466,6 +480,10 @@
 [gcr.io/google_containers/hyperkube-amd64:v1.1.2 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.11.0-alpha.0 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
+[gcr.io/google_containers/hyperkube-amd64:v1.10.0-beta.4 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
+
+[gcr.io/google_containers/hyperkube-amd64:v1.10.0-beta.3 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.10.0-beta.2 √](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/)
 
