@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-03-14 14:31 UTC]
+Google Container Registry Mirror [last seven 2018-03-15 14:32 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 432's gcr.io images
+Total of 433's gcr.io images
 -------
 
 Useage
@@ -755,6 +755,8 @@ Images
 [gcr.io/google_containers/redis-install-3.2.0 √](https://hub.docker.com/r/sqeven/redis-install-3.2.0/tags/)
 
 [gcr.io/google_containers/redis-slave √](https://hub.docker.com/r/sqeven/redis-slave/tags/)
+
+[gcr.io/google_containers/registry-promoter-test-image √](https://hub.docker.com/r/sqeven/registry-promoter-test-image/tags/)
 
 [gcr.io/google_containers/rescheduler √](https://hub.docker.com/r/sqeven/rescheduler/tags/)
 
