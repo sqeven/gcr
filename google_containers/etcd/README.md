@@ -1,8 +1,6 @@
 [gcr.io/google-containers/etcd](https://hub.docker.com/r/sqeven/etcd/tags/) 
 
 ----
-**[gcr.io/google_containers/etcd:3.2.17 updated](https://hub.docker.com/r/sqeven/etcd/tags/)**
-
 [gcr.io/google_containers/etcd:v2.0.3 √](https://hub.docker.com/r/sqeven/etcd/tags/)
 
 [gcr.io/google_containers/etcd:3.2.17 √](https://hub.docker.com/r/sqeven/etcd/tags/)

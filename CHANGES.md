@@ -1,3 +1,17 @@
+## 2018-03-16 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp-scaler:0.3 updated](https://hub.docker.com/r/sqeven/fluentd-gcp-scaler/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.2.5 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
+1. [gcr.io/google_containers/sd-dummy-exporter:v0.2.0 updated](https://hub.docker.com/r/sqeven/sd-dummy-exporter/tags/) 
+
+
 ## 2018-03-15 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
