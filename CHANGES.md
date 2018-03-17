@@ -1,3 +1,8 @@
+## 2018-03-17 
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:1.0.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-03-16 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
