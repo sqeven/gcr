@@ -1,7 +1,11 @@
 [gcr.io/google-containers/hyperkube](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
 
 ----
+[gcr.io/google_containers/hyperkube:v1.9.6-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
 [gcr.io/google_containers/hyperkube:v1.9.5-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
+[gcr.io/google_containers/hyperkube:v1.9.5 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.9.4-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
@@ -69,7 +73,11 @@
 
 [gcr.io/google_containers/hyperkube:v1.8.1-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
+[gcr.io/google_containers/hyperkube:v1.8.11-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
 [gcr.io/google_containers/hyperkube:v1.8.10-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
+[gcr.io/google_containers/hyperkube:v1.8.10 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.8.1 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
@@ -123,7 +131,11 @@
 
 [gcr.io/google_containers/hyperkube:v1.7.1-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
+[gcr.io/google_containers/hyperkube:v1.7.16-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
 [gcr.io/google_containers/hyperkube:v1.7.15-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
+[gcr.io/google_containers/hyperkube:v1.7.15 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.7.14-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
@@ -488,6 +500,8 @@
 [gcr.io/google_containers/hyperkube:v1.1.1 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.1.0-alpha.1 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
+[gcr.io/google_containers/hyperkube:v1.10.0-rc.1 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.10.0-beta.4 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 

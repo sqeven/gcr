@@ -1,3 +1,23 @@
+## 2018-03-21 
+
+1. [gcr.io/google_containers/etcd:3.1.12-0 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.12-0 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.1.12-0 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.1.12-0 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.1.12-0 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.1.12-0 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
 ## 2018-03-19 
 
 1. [gcr.io/google_containers/event-exporter:v0.1.9 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/) 

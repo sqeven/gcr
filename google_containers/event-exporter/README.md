@@ -1,8 +1,6 @@
 [gcr.io/google-containers/event-exporter](https://hub.docker.com/r/sqeven/event-exporter/tags/) 
 
 ----
-**[gcr.io/google_containers/event-exporter:v0.1.9 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/)**
-
 [gcr.io/google_containers/event-exporter:v0.1.9 √](https://hub.docker.com/r/sqeven/event-exporter/tags/)
 
 [gcr.io/google_containers/event-exporter:v0.1.8 √](https://hub.docker.com/r/sqeven/event-exporter/tags/)
