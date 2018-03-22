@@ -1,7 +1,15 @@
 [gcr.io/google-containers/kube-apiserver-s390x](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-apiserver-s390x:v1.9.7-beta.0 updated](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)**
+
+**[gcr.io/google_containers/kube-apiserver-s390x:v1.9.6 updated](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)**
+
+[gcr.io/google_containers/kube-apiserver-s390x:v1.9.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)
+
 [gcr.io/google_containers/kube-apiserver-s390x:v1.9.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)
+
+[gcr.io/google_containers/kube-apiserver-s390x:v1.9.6 √](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)
 
 [gcr.io/google_containers/kube-apiserver-s390x:v1.9.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)
 
