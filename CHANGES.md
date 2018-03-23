@@ -1,3 +1,23 @@
+## 2018-03-23 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.0-rc2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.0-rc3 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/echoserver:1.10 updated](https://hub.docker.com/r/sqeven/echoserver/tags/) 
+
+
+1. [gcr.io/google_containers/echoserver-amd64:1.10 updated](https://hub.docker.com/r/sqeven/echoserver-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
 ## 2018-03-22 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.9.7-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
