@@ -1,3 +1,11 @@
+## 2018-03-26 
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.3.0-rc.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.3.0-rc.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
 ## 2018-03-23 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.2.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
