@@ -1,3 +1,14 @@
+## 2018-03-29 
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
+1. [gcr.io/google_containers/kubelet-to-gcm:1.2.5 updated](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.2.6 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2018-03-27 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
