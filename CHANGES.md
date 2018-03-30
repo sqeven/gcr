@@ -1,3 +1,122 @@
+## 2018-03-30 
+
+1. [gcr.io/google_containers/etcd:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd:3.1.13 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.13 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.1.13 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.1.13 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.13.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.1.13 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.1.13 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-cloud-kms-plugin:v0.1.1 updated](https://hub.docker.com/r/sqeven/k8s-cloud-kms-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-amd64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-arm:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-arm64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-ppc64le:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-s390x:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-ppc64le:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.14.9 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:862447afba303047d4378262f2501b7de08928a2 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:862447afba303047d4378262f2501b7de08928a2 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-admission-controller:v0.1.0 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:v0.1.0 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:v0.1.0 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2018-03-29 
 
 1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 

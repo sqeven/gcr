@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-03-29 14:41 UTC]
+Google Container Registry Mirror [last seven 2018-03-30 14:41 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 433's gcr.io images
+Total of 437's gcr.io images
 -------
 
 Useage
@@ -375,6 +375,8 @@ Images
 [gcr.io/google_containers/jessie-dnsutils √](https://hub.docker.com/r/sqeven/jessie-dnsutils/tags/)
 
 [gcr.io/google_containers/jsandtest √](https://hub.docker.com/r/sqeven/jsandtest/tags/)
+
+[gcr.io/google_containers/k8s-cloud-kms-plugin √](https://hub.docker.com/r/sqeven/k8s-cloud-kms-plugin/tags/)
 
 [gcr.io/google_containers/k8s-custom-iptables √](https://hub.docker.com/r/sqeven/k8s-custom-iptables/tags/)
 
@@ -879,6 +881,12 @@ Images
 [gcr.io/google_containers/volume-nfs √](https://hub.docker.com/r/sqeven/volume-nfs/tags/)
 
 [gcr.io/google_containers/volume-rbd √](https://hub.docker.com/r/sqeven/volume-rbd/tags/)
+
+[gcr.io/google_containers/vpa-admission-controller √](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/)
+
+[gcr.io/google_containers/vpa-recommender √](https://hub.docker.com/r/sqeven/vpa-recommender/tags/)
+
+[gcr.io/google_containers/vpa-updater √](https://hub.docker.com/r/sqeven/vpa-updater/tags/)
 
 [gcr.io/google_containers/webhooks-publisher √](https://hub.docker.com/r/sqeven/webhooks-publisher/tags/)
 
