@@ -1,3 +1,8 @@
+## 2018-03-31 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.6.0 updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2018-03-30 
 
 1. [gcr.io/google_containers/etcd:3.1.13-0 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
