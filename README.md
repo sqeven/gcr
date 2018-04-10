@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-04-09 14:48 UTC]
+Google Container Registry Mirror [last seven 2018-04-10 14:48 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 437's gcr.io images
+Total of 438's gcr.io images
 -------
 
 Useage
@@ -21,6 +21,8 @@ docker pull sqeven/federation-controller-manager-arm64:v1.3.1-beta.1
 Images
 -------
 
+
+[gcr.io/google_containers/addon-builder √](https://hub.docker.com/r/sqeven/addon-builder/tags/)
 
 [gcr.io/google_containers/addon-resizer √](https://hub.docker.com/r/sqeven/addon-resizer/tags/)
 
