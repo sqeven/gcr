@@ -1,6 +1,10 @@
 [gcr.io/google-containers/etcd-empty-dir-cleanup](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
 
 ----
+**[gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.18.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/)**
+
+[gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.18.0 √](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/)
+
 [gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.17.0 √](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/)
 
 [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.13.0 √](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/)
