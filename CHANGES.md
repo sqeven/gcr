@@ -1,3 +1,8 @@
+## 2018-04-14 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
 ## 2018-04-13 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
