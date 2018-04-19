@@ -1,3 +1,32 @@
+## 2018-04-19 
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v7 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v10 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd:3.2.18 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.2.18 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.2.18 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.2.18 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.2.18 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.2.18 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/ip-masq-agent-amd64:v2.0.2 updated](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/) 
+
+
 ## 2018-04-18 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
