@@ -1,10 +1,6 @@
 [gcr.io/google-containers/cloud-controller-manager-ppc64le](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/) 
 
 ----
-**[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.12 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)**
-
-**[gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.8.13-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)**
-
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.8-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.9.7-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/)
