@@ -1,6 +1,8 @@
 [gcr.io/google-containers/cloud-controller-manager](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
 
 ----
+**[gcr.io/google_containers/cloud-controller-manager:v1.11.0-alpha.2 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)**
+
 [gcr.io/google_containers/cloud-controller-manager:v1.9.8-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager:v1.9.7-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)
@@ -172,6 +174,8 @@
 [gcr.io/google_containers/cloud-controller-manager:v1.7.1 √](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager:v1.7.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager:v1.11.0-alpha.2 √](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager:v1.11.0-alpha.1 √](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/)
 
