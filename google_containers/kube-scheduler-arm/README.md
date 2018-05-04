@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-scheduler-arm](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler-arm:v1.11.0-alpha.2 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)**
-
 [gcr.io/google_containers/kube-scheduler-arm:v1.9.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.9.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
