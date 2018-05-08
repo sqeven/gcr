@@ -1,3 +1,17 @@
+## 2018-05-08 
+
+1. [gcr.io/google_containers/heapster-arm:v1.5.3 updated](https://hub.docker.com/r/sqeven/heapster-arm/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-arm64:v1.5.3 updated](https://hub.docker.com/r/sqeven/heapster-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-ppc64le:v1.5.3 updated](https://hub.docker.com/r/sqeven/heapster-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/heapster-s390x:v1.5.3 updated](https://hub.docker.com/r/sqeven/heapster-s390x/tags/) 
+
+
 ## 2018-05-05 
 
 1. [gcr.io/google_containers/kube-cross:v1.10.2-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
