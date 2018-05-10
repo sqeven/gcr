@@ -1,3 +1,8 @@
+## 2018-05-10 
+
+1. [gcr.io/google_containers/debian-base-amd64:0.3 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
+
+
 ## 2018-05-08 
 
 1. [gcr.io/google_containers/heapster-arm:v1.5.3 updated](https://hub.docker.com/r/sqeven/heapster-arm/tags/) 

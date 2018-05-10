@@ -1,8 +1,6 @@
 [gcr.io/google-containers/heapster-arm](https://hub.docker.com/r/sqeven/heapster-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/heapster-arm:v1.5.3 updated](https://hub.docker.com/r/sqeven/heapster-arm/tags/)**
-
 [gcr.io/google_containers/heapster-arm:v1.5.3 √](https://hub.docker.com/r/sqeven/heapster-arm/tags/)
 
 [gcr.io/google_containers/heapster-arm:v1.5.2 √](https://hub.docker.com/r/sqeven/heapster-arm/tags/)
