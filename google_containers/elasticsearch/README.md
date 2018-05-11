@@ -1,6 +1,10 @@
 [gcr.io/google-containers/elasticsearch](https://hub.docker.com/r/sqeven/elasticsearch/tags/) 
 
 ----
+**[gcr.io/google_containers/elasticsearch:v6.2.4 updated](https://hub.docker.com/r/sqeven/elasticsearch/tags/)**
+
+[gcr.io/google_containers/elasticsearch:v6.2.4 √](https://hub.docker.com/r/sqeven/elasticsearch/tags/)
+
 [gcr.io/google_containers/elasticsearch:v5.6.4 √](https://hub.docker.com/r/sqeven/elasticsearch/tags/)
 
 [gcr.io/google_containers/elasticsearch:v5.6.2 √](https://hub.docker.com/r/sqeven/elasticsearch/tags/)

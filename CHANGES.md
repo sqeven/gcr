@@ -1,3 +1,11 @@
+## 2018-05-11 
+
+1. [gcr.io/google_containers/elasticsearch:v6.2.4 updated](https://hub.docker.com/r/sqeven/elasticsearch/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.1.0 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
+
+
 ## 2018-05-10 
 
 1. [gcr.io/google_containers/debian-base-amd64:0.3 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
