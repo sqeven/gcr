@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-05-16 15:05 UTC]
+Google Container Registry Mirror [last seven 2018-05-17 15:06 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 440's gcr.io images
+Total of 441's gcr.io images
 -------
 
 Useage
@@ -653,6 +653,8 @@ Images
 [gcr.io/google_containers/mysql-galera √](https://hub.docker.com/r/sqeven/mysql-galera/tags/)
 
 [gcr.io/google_containers/mysql-healthz √](https://hub.docker.com/r/sqeven/mysql-healthz/tags/)
+
+[gcr.io/google_containers/netd √](https://hub.docker.com/r/sqeven/netd/tags/)
 
 [gcr.io/google_containers/netexec √](https://hub.docker.com/r/sqeven/netexec/tags/)
 
