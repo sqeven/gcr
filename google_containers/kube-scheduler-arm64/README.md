@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-scheduler-arm64](https://hub.docker.com/r/sqeven/kube-scheduler-arm64/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler-arm64:v1.9.9-beta.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm64/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler-arm64:v1.9.8 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm64/tags/)**
-
 [gcr.io/google_containers/kube-scheduler-arm64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm64/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm64:v1.9.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm64/tags/)
