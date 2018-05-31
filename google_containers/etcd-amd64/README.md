@@ -1,6 +1,10 @@
 [gcr.io/google-containers/etcd-amd64](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/etcd-amd64:3.1.15 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)**
+
+**[gcr.io/google_containers/etcd-amd64:3.2.18-0 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)**
+
 [gcr.io/google_containers/etcd-amd64:3.2.18-0 √](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)
 
 [gcr.io/google_containers/etcd-amd64:3.2.18 √](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)
@@ -10,6 +14,8 @@
 [gcr.io/google_containers/etcd-amd64:3.2.16 √](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)
 
 [gcr.io/google_containers/etcd-amd64:3.2.14 √](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)
+
+[gcr.io/google_containers/etcd-amd64:3.1.15 √](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)
 
 [gcr.io/google_containers/etcd-amd64:3.1.13-0 √](https://hub.docker.com/r/sqeven/etcd-amd64/tags/)
 
