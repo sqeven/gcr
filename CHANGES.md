@@ -1,3 +1,11 @@
+## 2018-06-02 
+
+1. [gcr.io/google_containers/addon-builder:am-i-a-manifest-list updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:93cddbb9baf81534f84380f706c2cb7a5aadc2b5 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-06-01 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.0-beta.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
