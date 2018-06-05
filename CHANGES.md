@@ -1,3 +1,29 @@
+## 2018-06-05 
+
+1. [gcr.io/google_containers/coredns:1.1.3__s390x_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__arm64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__ppc64le_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__amd64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__arm_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-api-server:dev updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:dev updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-06-02 
 
 1. [gcr.io/google_containers/addon-builder:am-i-a-manifest-list updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 

@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-06-04 15:16 UTC]
+Google Container Registry Mirror [last seven 2018-06-05 15:17 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 442's gcr.io images
+Total of 445's gcr.io images
 -------
 
 Useage
@@ -85,6 +85,8 @@ Images
 [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le √](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-ppc64le/tags/)
 
 [gcr.io/google_containers/clusterregistry √](https://hub.docker.com/r/sqeven/clusterregistry/tags/)
+
+[gcr.io/google_containers/coredns √](https://hub.docker.com/r/sqeven/coredns/tags/)
 
 [gcr.io/google_containers/cos-nvidia-driver-install √](https://hub.docker.com/r/sqeven/cos-nvidia-driver-install/tags/)
 
@@ -293,6 +295,10 @@ Images
 [gcr.io/google_containers/gke-launcher √](https://hub.docker.com/r/sqeven/gke-launcher/tags/)
 
 [gcr.io/google_containers/gke-master-backup √](https://hub.docker.com/r/sqeven/gke-master-backup/tags/)
+
+[gcr.io/google_containers/gke-mpi-api-server √](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/)
+
+[gcr.io/google_containers/gke-mpi-metadata-server √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
 
 [gcr.io/google_containers/glbc √](https://hub.docker.com/r/sqeven/glbc/tags/)
 
