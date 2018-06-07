@@ -1,3 +1,23 @@
+## 2018-06-07 
+
+1. [gcr.io/google_containers/etcd:3.1.17 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.17 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.1.17 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.1.17 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.1.17 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.1.17 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
 ## 2018-06-06 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.4 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
