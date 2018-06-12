@@ -1,3 +1,11 @@
+## 2018-06-12 
+
+1. [gcr.io/google_containers/gke-mpi-api-server:dev updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:dev updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-06-11 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.3.0-beta.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
