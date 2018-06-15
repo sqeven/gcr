@@ -1,3 +1,14 @@
+## 2018-06-15 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:testing updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/gke-certificates-controller:v1.11.0-r2 updated](https://hub.docker.com/r/sqeven/gke-certificates-controller/tags/) 
+
+
+1. [gcr.io/google_containers/kubelet-to-gcm:1.2.6 updated](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/) 
+
+
 ## 2018-06-12 
 
 1. [gcr.io/google_containers/gke-mpi-api-server:dev updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
