@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gke-certificates-controller](https://hub.docker.com/r/sqeven/gke-certificates-controller/tags/) 
 
 ----
-**[gcr.io/google_containers/gke-certificates-controller:v1.11.0-r2 updated](https://hub.docker.com/r/sqeven/gke-certificates-controller/tags/)**
-
 [gcr.io/google_containers/gke-certificates-controller:v1.11.0-r2 √](https://hub.docker.com/r/sqeven/gke-certificates-controller/tags/)
 
 [gcr.io/google_containers/gke-certificates-controller:v1.11.0-r1 √](https://hub.docker.com/r/sqeven/gke-certificates-controller/tags/)
