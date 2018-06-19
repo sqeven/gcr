@@ -1,3 +1,8 @@
+## 2018-06-19 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.3.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2018-06-18 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:testing updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
