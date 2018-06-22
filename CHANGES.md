@@ -1,3 +1,20 @@
+## 2018-06-22 
+
+1. [gcr.io/google_containers/cadvisor:v0.29.2 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/cadvisor:v0.30.2 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/cadvisor:v0.28.5 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:1.1.2 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:8ae2315a703fc687cbffcb496f31ba1ae48d0b46 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
 ## 2018-06-21 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.5 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
