@@ -1,3 +1,38 @@
+## 2018-06-23 
+
+1. [gcr.io/google_containers/coredns:1.1.3__s390x_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__arm64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__ppc64le_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__amd64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3__arm_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.1.3 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/gke-certificates-controller:v1.11.0-r3 updated](https://hub.docker.com/r/sqeven/gke-certificates-controller/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-api-server:alexcope-dev updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:alexcope-dev updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.1.2 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/node-problem-detector:v0.5.0 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2018-06-22 
 
 1. [gcr.io/google_containers/cadvisor:v0.29.2 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
