@@ -1,6 +1,10 @@
 [gcr.io/google-containers/nvidia-gpu-device-plugin](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
 
 ----
+**[gcr.io/google_containers/nvidia-gpu-device-plugin:bd353d3c91114d5eaca071df07f1b7e845b87bc6 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
+
+**[gcr.io/google_containers/nvidia-gpu-device-plugin:790db92e6791b078e0c29edbaf2d6da1ac6f80bf updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
+
 [gcr.io/google_containers/nvidia-gpu-device-plugin:fe721d768bab68913c80d37946151ed4eb800e03 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
@@ -19,6 +23,8 @@
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:be78fc2ad63db8b598d341dacb30e37156621a7f √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
+[gcr.io/google_containers/nvidia-gpu-device-plugin:bd353d3c91114d5eaca071df07f1b7e845b87bc6 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
+
 [gcr.io/google_containers/nvidia-gpu-device-plugin:bd08614af87a90d528cb2f60024310c85b5e426f √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:93cddbb9baf81534f84380f706c2cb7a5aadc2b5 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
@@ -34,6 +40,8 @@
 [gcr.io/google_containers/nvidia-gpu-device-plugin:822fa61e384b4456ddac2b19106bd1d7d777f180 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:7dc0ded9d4a5d1821c25a30b3f1456b563f70556 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
+
+[gcr.io/google_containers/nvidia-gpu-device-plugin:790db92e6791b078e0c29edbaf2d6da1ac6f80bf √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:70a1113ee4ceb413e21c54ca943bc2f4b984117d √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 

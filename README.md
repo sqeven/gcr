@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-06-25 15:59 UTC]
+Google Container Registry Mirror [last seven 2018-06-26 15:27 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 445's gcr.io images
+Total of 446's gcr.io images
 -------
 
 Useage
@@ -647,6 +647,8 @@ Images
 [gcr.io/google_containers/metrics-server-ppc64le √](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/)
 
 [gcr.io/google_containers/metrics-server-s390x √](https://hub.docker.com/r/sqeven/metrics-server-s390x/tags/)
+
+[gcr.io/google_containers/minikube-nvidia-driver-installer √](https://hub.docker.com/r/sqeven/minikube-nvidia-driver-installer/tags/)
 
 [gcr.io/google_containers/mongodb-install √](https://hub.docker.com/r/sqeven/mongodb-install/tags/)
 
