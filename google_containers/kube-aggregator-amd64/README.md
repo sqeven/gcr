@@ -1,7 +1,7 @@
 [gcr.io/google-containers/kube-aggregator-amd64](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-aggregator-amd64:v1.11.0-rc.2 updated](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)**
+**[gcr.io/google_containers/kube-aggregator-amd64:v1.11.0-rc.3 updated](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)**
 
 [gcr.io/google_containers/kube-aggregator-amd64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)
 
@@ -148,6 +148,8 @@
 [gcr.io/google_containers/kube-aggregator-amd64:v1.7.11 √](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)
 
 [gcr.io/google_containers/kube-aggregator-amd64:v1.12.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)
+
+[gcr.io/google_containers/kube-aggregator-amd64:v1.11.0-rc.3 √](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)
 
 [gcr.io/google_containers/kube-aggregator-amd64:v1.11.0-rc.2 √](https://hub.docker.com/r/sqeven/kube-aggregator-amd64/tags/)
 

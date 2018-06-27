@@ -1,9 +1,11 @@
 [gcr.io/google-containers/nvidia-gpu-device-plugin](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
 
 ----
-**[gcr.io/google_containers/nvidia-gpu-device-plugin:bd353d3c91114d5eaca071df07f1b7e845b87bc6 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
+**[gcr.io/google_containers/nvidia-gpu-device-plugin:cb2bdea5eb507a9577ce11ff058a2dfa84f54263 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
 
-**[gcr.io/google_containers/nvidia-gpu-device-plugin:790db92e6791b078e0c29edbaf2d6da1ac6f80bf updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
+**[gcr.io/google_containers/nvidia-gpu-device-plugin:10bde305c265b06785b227d714c02518e05095bc updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
+
+**[gcr.io/google_containers/nvidia-gpu-device-plugin:44d8b568680fd6395513de638d9ba2ab52588b46 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)**
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:fe721d768bab68913c80d37946151ed4eb800e03 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
@@ -20,6 +22,8 @@
 [gcr.io/google_containers/nvidia-gpu-device-plugin:d3011306f5da50c7e52feb38781f4a9717e1d941 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:cd8732e3c25fe61223e0f37d5f496171833afc14 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
+
+[gcr.io/google_containers/nvidia-gpu-device-plugin:cb2bdea5eb507a9577ce11ff058a2dfa84f54263 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:be78fc2ad63db8b598d341dacb30e37156621a7f √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
@@ -59,6 +63,8 @@
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:48b1581efc09290ccf44b2116bfc3ad8e20efc14 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
+[gcr.io/google_containers/nvidia-gpu-device-plugin:44d8b568680fd6395513de638d9ba2ab52588b46 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
+
 [gcr.io/google_containers/nvidia-gpu-device-plugin:3f8afa9b4bc8afd3d45405bcd03b9200f9d53085 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:3e9582fdf5f9b8ae0d6b822f3c2c48beada9b59f √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
@@ -72,6 +78,8 @@
 [gcr.io/google_containers/nvidia-gpu-device-plugin:31ee590ea32667804438a380cea5f46064cf9f03 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:1c1d7b67fe2df0aed5e2a5ce4966b1794591a1e6 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
+
+[gcr.io/google_containers/nvidia-gpu-device-plugin:10bde305c265b06785b227d714c02518e05095bc √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:0c9a43fa8ab044677cfe1e3b23d3dc5a142406f5 √](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/)
 
