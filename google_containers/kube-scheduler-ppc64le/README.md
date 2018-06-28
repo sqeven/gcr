@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-scheduler-ppc64le](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0-rc.3 updated](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)**
+**[gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)**
+
+**[gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.1-beta.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)**
 
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
 
@@ -333,6 +335,8 @@
 
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.12.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
 
+[gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
+
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0-rc.3 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0-rc.2 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
@@ -350,6 +354,8 @@
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0-alpha.1 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
+
+[gcr.io/google_containers/kube-scheduler-ppc64le:v1.11.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-scheduler-ppc64le:v1.10.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/)
 
