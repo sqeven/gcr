@@ -1,3 +1,14 @@
+## 2018-06-30 
+
+1. [gcr.io/google_containers/etcd:v3.3.8-0-gke.1 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r4 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.2.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-06-29 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.9.10-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
