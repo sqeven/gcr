@@ -1,3 +1,8 @@
+## 2018-07-03 
+
+1. [gcr.io/google_containers/kube-cross:V1.10.3-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2018-06-30 
 
 1. [gcr.io/google_containers/etcd:v3.3.8-0-gke.1 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
