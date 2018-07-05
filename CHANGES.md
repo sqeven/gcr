@@ -1,3 +1,11 @@
+## 2018-07-05 
+
+1. [gcr.io/google_containers/addon-resizer:1.8.2 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.3.1-beta.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2018-07-04 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.0.6 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
