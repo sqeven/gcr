@@ -1,3 +1,8 @@
+## 2018-07-09 
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.2.0 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
+
+
 ## 2018-07-05 
 
 1. [gcr.io/google_containers/addon-resizer:1.8.2 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 
