@@ -1,3 +1,8 @@
+## 2018-07-16 
+
+1. [gcr.io/google_containers/elasticsearch:v6.2.5 updated](https://hub.docker.com/r/sqeven/elasticsearch/tags/) 
+
+
 ## 2018-07-13 
 
 1. [gcr.io/google_containers/event-exporter:v0.2.2 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/) 
