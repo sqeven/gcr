@@ -1,8 +1,6 @@
 [gcr.io/google-containers/heapster-grafana-arm](https://hub.docker.com/r/sqeven/heapster-grafana-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/heapster-grafana-arm:v5.0.4 updated](https://hub.docker.com/r/sqeven/heapster-grafana-arm/tags/)**
-
 [gcr.io/google_containers/heapster-grafana-arm:v5.0.4 √](https://hub.docker.com/r/sqeven/heapster-grafana-arm/tags/)
 
 [gcr.io/google_containers/heapster-grafana-arm:v4.4.3 √](https://hub.docker.com/r/sqeven/heapster-grafana-arm/tags/)

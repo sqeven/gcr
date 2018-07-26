@@ -1,8 +1,6 @@
 [gcr.io/google-containers/heapster-grafana-amd64](https://hub.docker.com/r/sqeven/heapster-grafana-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/heapster-grafana-amd64:v5.0.4 updated](https://hub.docker.com/r/sqeven/heapster-grafana-amd64/tags/)**
-
 [gcr.io/google_containers/heapster-grafana-amd64:v5.0.4 √](https://hub.docker.com/r/sqeven/heapster-grafana-amd64/tags/)
 
 [gcr.io/google_containers/heapster-grafana-amd64:v4.4.3 √](https://hub.docker.com/r/sqeven/heapster-grafana-amd64/tags/)
