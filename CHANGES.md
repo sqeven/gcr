@@ -1,3 +1,11 @@
+## 2018-07-28 
+
+1. [gcr.io/google_containers/gcp-controller-manager:1edadd08fb75221f975961642cfde871dba8fe90 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/netd-amd64:0.1.3 updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
+
+
 ## 2018-07-26 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.6 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
