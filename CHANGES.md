@@ -1,3 +1,14 @@
+## 2018-08-01 
+
+1. [gcr.io/google_containers/gcp-controller-manager:434dd3197ae6f649ab796765bbdef008043bda69 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:3836318037f23279a33e021ad409da9966283e70 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
+1. [gcr.io/google_containers/netd-amd64:0.1.4 updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
+
+
 ## 2018-07-28 
 
 1. [gcr.io/google_containers/gcp-controller-manager:1edadd08fb75221f975961642cfde871dba8fe90 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
