@@ -1,3 +1,11 @@
+## 2018-08-04 
+
+1. [gcr.io/google_containers/gke-mpi-api-server:v.0.0.2 updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:v.0.0.2 updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-08-03 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.9.11-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
