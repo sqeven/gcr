@@ -1,8 +1,6 @@
 [gcr.io/google-containers/heapster-s390x](https://hub.docker.com/r/sqeven/heapster-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/heapster-s390x:v1.6.0-beta.1 updated](https://hub.docker.com/r/sqeven/heapster-s390x/tags/)**
-
 [gcr.io/google_containers/heapster-s390x:v1.6.0-beta.1 √](https://hub.docker.com/r/sqeven/heapster-s390x/tags/)
 
 [gcr.io/google_containers/heapster-s390x:v1.5.4 √](https://hub.docker.com/r/sqeven/heapster-s390x/tags/)
