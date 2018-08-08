@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-aggregator-arm64](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-aggregator-arm64:v1.11.2 updated](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)**
+
+**[gcr.io/google_containers/kube-aggregator-arm64:v1.11.3-beta.0 updated](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)**
+
 [gcr.io/google_containers/kube-aggregator-arm64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
 
 [gcr.io/google_containers/kube-aggregator-arm64:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
@@ -161,7 +165,11 @@
 
 [gcr.io/google_containers/kube-aggregator-arm64:v1.12.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
 
+[gcr.io/google_containers/kube-aggregator-arm64:v1.11.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
+
 [gcr.io/google_containers/kube-aggregator-arm64:v1.11.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
+
+[gcr.io/google_containers/kube-aggregator-arm64:v1.11.2 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
 
 [gcr.io/google_containers/kube-aggregator-arm64:v1.11.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-arm64/tags/)
 
