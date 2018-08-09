@@ -1,7 +1,15 @@
 [gcr.io/google-containers/gke-mpi-metadata-server](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
 
 ----
+**[gcr.io/google_containers/gke-mpi-metadata-server:alexcope-dev updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)**
+
+**[gcr.io/google_containers/gke-mpi-metadata-server:v.0.0.2 updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)**
+
+[gcr.io/google_containers/gke-mpi-metadata-server:v0.0.2 √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
+
 [gcr.io/google_containers/gke-mpi-metadata-server:v.0.0.2 √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
+
+[gcr.io/google_containers/gke-mpi-metadata-server:v0.0.1 √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
 
 [gcr.io/google_containers/gke-mpi-metadata-server:v.0.0.1 √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
 

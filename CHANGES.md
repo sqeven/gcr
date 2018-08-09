@@ -1,3 +1,23 @@
+## 2018-08-09 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-api-server:alexcope-dev updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-api-server:v.0.0.2 updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:alexcope-dev updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:v.0.0.2 updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/netd-amd64:0.1.5 updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
+
+
 ## 2018-08-08 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.2 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
