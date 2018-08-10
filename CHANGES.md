@@ -1,3 +1,11 @@
+## 2018-08-10 
+
+1. [gcr.io/google_containers/gke-mpi-api-server:v0.0.3 updated](https://hub.docker.com/r/sqeven/gke-mpi-api-server/tags/) 
+
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:v0.0.3 updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
 ## 2018-08-09 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
