@@ -1,3 +1,17 @@
+## 2018-08-14 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.3-beta.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.3.2-beta.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/gcp-controller-manager:b30912607c944f0b7935f24aa1fc391e0b112101 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.3.0 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2018-08-11 
 
 1. [gcr.io/google_containers/debian-base-amd64:0.3.2 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 

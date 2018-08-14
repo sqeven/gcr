@@ -1,6 +1,10 @@
 [gcr.io/google-containers/prometheus-to-sd](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
 
 ----
+**[gcr.io/google_containers/prometheus-to-sd:v0.3.0 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/)**
+
+[gcr.io/google_containers/prometheus-to-sd:v0.3.0 √](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/)
+
 [gcr.io/google_containers/prometheus-to-sd:v0.2.6 √](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/)
 
 [gcr.io/google_containers/prometheus-to-sd:v0.2.5 √](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/)
