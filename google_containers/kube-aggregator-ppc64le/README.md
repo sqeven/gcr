@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-aggregator-ppc64le](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-aggregator-ppc64le:v1.12.0-beta.0 updated](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)**
+
+**[gcr.io/google_containers/kube-aggregator-ppc64le:v1.13.0-alpha.0 updated](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)**
+
 [gcr.io/google_containers/kube-aggregator-ppc64le:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-aggregator-ppc64le:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
@@ -156,6 +160,10 @@
 [gcr.io/google_containers/kube-aggregator-ppc64le:v1.7.12 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-aggregator-ppc64le:v1.7.11 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
+
+[gcr.io/google_containers/kube-aggregator-ppc64le:v1.13.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
+
+[gcr.io/google_containers/kube-aggregator-ppc64le:v1.12.0-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-aggregator-ppc64le:v1.12.0-alpha.1 √](https://hub.docker.com/r/sqeven/kube-aggregator-ppc64le/tags/)
 
