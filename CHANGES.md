@@ -1,3 +1,11 @@
+## 2018-08-17 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/cos-kernel-headers:20180816-R01-00 updated](https://hub.docker.com/r/sqeven/cos-kernel-headers/tags/) 
+
+
 ## 2018-08-16 
 
 1. [gcr.io/google_containers/prometheus-to-sd:v0.3.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
