@@ -1,3 +1,8 @@
+## 2018-08-19 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
 ## 2018-08-18 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.3.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
