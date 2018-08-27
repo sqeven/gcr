@@ -1,3 +1,20 @@
+## 2018-08-27 
+
+1. [gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm:v1.10.0 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.10.0 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.10.0 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.10.0 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-s390x/tags/) 
+
+
 ## 2018-08-23 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.2.3-beta.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
