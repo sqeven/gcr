@@ -1,3 +1,11 @@
+## 2018-08-31 
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.4.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.4.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
 ## 2018-08-30 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 

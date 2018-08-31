@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kubelet-to-gcm](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/) 
 
 ----
-**[gcr.io/google_containers/kubelet-to-gcm:1.2.7 updated](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)**
-
 [gcr.io/google_containers/kubelet-to-gcm:1.2.7 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
 
 [gcr.io/google_containers/kubelet-to-gcm:1.2.6 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
