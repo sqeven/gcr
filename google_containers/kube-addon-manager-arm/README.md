@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-addon-manager-arm](https://hub.docker.com/r/sqeven/kube-addon-manager-arm/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-addon-manager-arm:v8.7 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-arm/tags/)**
+
+[gcr.io/google_containers/kube-addon-manager-arm:v8.7 √](https://hub.docker.com/r/sqeven/kube-addon-manager-arm/tags/)
+
 [gcr.io/google_containers/kube-addon-manager-arm:v8.6 √](https://hub.docker.com/r/sqeven/kube-addon-manager-arm/tags/)
 
 [gcr.io/google_containers/kube-addon-manager-arm:v6.5 √](https://hub.docker.com/r/sqeven/kube-addon-manager-arm/tags/)
