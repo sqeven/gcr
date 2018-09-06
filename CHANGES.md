@@ -1,3 +1,38 @@
+## 2018-09-06 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.3.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.3 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.12.0-beta.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/etcd:3.2.24 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.2.24 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.2.24 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.2.24 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.24.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.2.24 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.2.24 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
 ## 2018-09-05 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.12.0-beta.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
