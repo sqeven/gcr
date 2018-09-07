@@ -1,3 +1,8 @@
+## 2018-09-07 
+
+1. [gcr.io/google_containers/k8s-tpu-operator:beebb121fd5de1e766d2d88342f3253dd710e7dd updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
 ## 2018-09-06 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
