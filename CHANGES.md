@@ -1,3 +1,59 @@
+## 2018-09-08 
+
+1. [gcr.io/google_containers/cadvisor:v0.31.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.1__arm64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.6__arm_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.1__arm_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.1__amd64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.1__ppc64le_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.1__s390x_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.6__amd64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.6__ppc64le_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.6 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.6__arm64_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.1 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.0.6__s390x_linux updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:27396e9de55a96ba035e99480b70de5020861e60 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:27396e9de55a96ba035e99480b70de5020861e60 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-09-07 
 
 1. [gcr.io/google_containers/k8s-tpu-operator:beebb121fd5de1e766d2d88342f3253dd710e7dd updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
