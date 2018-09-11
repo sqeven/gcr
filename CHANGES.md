@@ -1,3 +1,56 @@
+## 2018-09-11 
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-amd64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-arm:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-arm64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-ppc64le:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-s390x:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-ppc64le:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.14.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-s390x/tags/) 
+
+
 ## 2018-09-10 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.4-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
