@@ -1,3 +1,8 @@
+## 2018-09-13 
+
+1. [gcr.io/google_containers/fluentd-gcp-scaler:0.5 updated](https://hub.docker.com/r/sqeven/fluentd-gcp-scaler/tags/) 
+
+
 ## 2018-09-12 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
