@@ -1,3 +1,23 @@
+## 2018-09-17 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.12.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-amd64:v0.3.1 updated](https://hub.docker.com/r/sqeven/metrics-server-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm:v0.3.1 updated](https://hub.docker.com/r/sqeven/metrics-server-arm/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm64:v0.3.1 updated](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-ppc64le:v0.3.1 updated](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-s390x:v0.3.1 updated](https://hub.docker.com/r/sqeven/metrics-server-s390x/tags/) 
+
+
 ## 2018-09-15 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.9-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
