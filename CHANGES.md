@@ -1,3 +1,176 @@
+## 2018-09-19 
+
+1. [gcr.io/google_containers/cloud-controller-manager:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-s390x:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-amd64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-arm:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/hyperkube-arm/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-arm64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-ppc64le:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-s390x:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm64:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm64:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-ppc64le:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.14.12 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-amd64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-arm:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-arm64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-ppc64le:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-s390x:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-amd64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-arm:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-arm64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-s390x:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.10.4-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-proxy/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy-amd64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy-arm:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy-arm64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-proxy-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy-ppc64le:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-proxy-s390x:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-scheduler/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler-amd64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-scheduler-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler-arm:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler-arm64:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler-ppc64le:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-scheduler-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-scheduler-s390x:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/netd-amd64:0.1.6 updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/toolbox:20180918-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
+
+
 ## 2018-09-18 
 
 1. [gcr.io/google_containers/debian-hyperkube-base-amd64:0.10.2 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/) 
