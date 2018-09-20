@@ -1,3 +1,11 @@
+## 2018-09-20 
+
+1. [gcr.io/google_containers/gvisor-admission-webhook-amd64:db9ba6906245ae3d8e7af791727d54fffa3d9202 updated](https://hub.docker.com/r/sqeven/gvisor-admission-webhook-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.3.2 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2018-09-19 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.12.0-rc.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
