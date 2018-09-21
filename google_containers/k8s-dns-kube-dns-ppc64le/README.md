@@ -1,6 +1,8 @@
 [gcr.io/google-containers/k8s-dns-kube-dns-ppc64le](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.13 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)**
+
 [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.9 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
 
 [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.8 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
@@ -16,6 +18,8 @@
 [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.3 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
 
 [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.2 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
+
+[gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.13 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
 
 [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.14.12 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
 

@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-09-20 16:11 UTC]
+Google Container Registry Mirror [last seven 2018-09-21 16:12 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 453's gcr.io images
+Total of 455's gcr.io images
 -------
 
 Useage
@@ -98,6 +98,8 @@ Images
 
 [gcr.io/google_containers/custom-metrics-stackdriver-adapter √](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/)
 
+[gcr.io/google_containers/debian-base √](https://hub.docker.com/r/sqeven/debian-base/tags/)
+
 [gcr.io/google_containers/debian-base-amd64 √](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/)
 
 [gcr.io/google_containers/debian-base-arm √](https://hub.docker.com/r/sqeven/debian-base-arm/tags/)
@@ -107,6 +109,8 @@ Images
 [gcr.io/google_containers/debian-base-ppc64le √](https://hub.docker.com/r/sqeven/debian-base-ppc64le/tags/)
 
 [gcr.io/google_containers/debian-base-s390x √](https://hub.docker.com/r/sqeven/debian-base-s390x/tags/)
+
+[gcr.io/google_containers/debian-hyperkube-base √](https://hub.docker.com/r/sqeven/debian-hyperkube-base/tags/)
 
 [gcr.io/google_containers/debian-hyperkube-base-amd64 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/)
 
