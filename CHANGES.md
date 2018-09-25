@@ -1,3 +1,8 @@
+## 2018-09-25 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
 ## 2018-09-22 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
