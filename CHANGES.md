@@ -1,3 +1,8 @@
+## 2018-09-26 
+
+1. [gcr.io/google_containers/netd-amd64:0.1.6 updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
+
+
 ## 2018-09-25 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
