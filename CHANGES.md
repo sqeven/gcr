@@ -1,3 +1,11 @@
+## 2018-10-04 
+
+1. [gcr.io/google_containers/gvisor-admission-webhook-amd64:f419c470442c792b7b8fae72191132bbba44420a updated](https://hub.docker.com/r/sqeven/gvisor-admission-webhook-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.11.1-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2018-10-03 
 
 1. [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.3.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/) 
