@@ -1,3 +1,8 @@
+## 2018-10-09 
+
+1. [gcr.io/google_containers/ip-masq-agent-amd64:v2.2.0 updated](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/) 
+
+
 ## 2018-10-07 
 
 1. [gcr.io/google_containers/netd-amd64:0.1.8 updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
