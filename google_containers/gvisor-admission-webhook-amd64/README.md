@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gvisor-admission-webhook-amd64](https://hub.docker.com/r/sqeven/gvisor-admission-webhook-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/gvisor-admission-webhook-amd64:12ce01dbbae50059d416f2732326abb35b4907f6 updated](https://hub.docker.com/r/sqeven/gvisor-admission-webhook-amd64/tags/)**
-
 [gcr.io/google_containers/gvisor-admission-webhook-amd64:f419c470442c792b7b8fae72191132bbba44420a √](https://hub.docker.com/r/sqeven/gvisor-admission-webhook-amd64/tags/)
 
 [gcr.io/google_containers/gvisor-admission-webhook-amd64:db9ba6906245ae3d8e7af791727d54fffa3d9202 √](https://hub.docker.com/r/sqeven/gvisor-admission-webhook-amd64/tags/)
