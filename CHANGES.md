@@ -1,3 +1,14 @@
+## 2018-10-18 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.2.3 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.11.1-2 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2018-10-16 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
