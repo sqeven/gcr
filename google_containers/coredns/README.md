@@ -1,7 +1,9 @@
 [gcr.io/google-containers/coredns](https://hub.docker.com/r/sqeven/coredns/tags/) 
 
 ----
-**[gcr.io/google_containers/coredns:1.2.3 updated](https://hub.docker.com/r/sqeven/coredns/tags/)**
+**[gcr.io/google_containers/coredns:1.2.4 updated](https://hub.docker.com/r/sqeven/coredns/tags/)**
+
+[gcr.io/google_containers/coredns:1.2.4 √](https://hub.docker.com/r/sqeven/coredns/tags/)
 
 [gcr.io/google_containers/coredns:1.2.3 √](https://hub.docker.com/r/sqeven/coredns/tags/)
 
