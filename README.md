@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-10-23 16:28 UTC]
+Google Container Registry Mirror [last seven 2018-10-24 16:29 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 455's gcr.io images
+Total of 461's gcr.io images
 -------
 
 Useage
@@ -85,6 +85,18 @@ Images
 [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le √](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-ppc64le/tags/)
 
 [gcr.io/google_containers/clusterregistry √](https://hub.docker.com/r/sqeven/clusterregistry/tags/)
+
+[gcr.io/google_containers/conformance √](https://hub.docker.com/r/sqeven/conformance/tags/)
+
+[gcr.io/google_containers/conformance-amd64 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
+
+[gcr.io/google_containers/conformance-arm √](https://hub.docker.com/r/sqeven/conformance-arm/tags/)
+
+[gcr.io/google_containers/conformance-arm64 √](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)
+
+[gcr.io/google_containers/conformance-ppc64le √](https://hub.docker.com/r/sqeven/conformance-ppc64le/tags/)
+
+[gcr.io/google_containers/conformance-s390x √](https://hub.docker.com/r/sqeven/conformance-s390x/tags/)
 
 [gcr.io/google_containers/coredns √](https://hub.docker.com/r/sqeven/coredns/tags/)
 
