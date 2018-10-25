@@ -1,3 +1,59 @@
+## 2018-10-25 
+
+1. [gcr.io/google_containers/debian-hyperkube-base:0.12.0 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-amd64:0.12.0 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-arm:0.12.0 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-arm64:0.12.0 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.12.0 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-s390x:0.12.0 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables:v11.0 updated](https://hub.docker.com/r/sqeven/debian-iptables/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v11.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm:v11.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm64:v11.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-ppc64le:v11.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-s390x:v11.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager:v8.9 updated](https://hub.docker.com/r/sqeven/kube-addon-manager/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-amd64:v8.9 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-arm:v8.9 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-arm64:v8.9 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-ppc64le:v8.9 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-s390x:v8.9 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-s390x/tags/) 
+
+
 ## 2018-10-24 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.13.0-alpha.2 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
