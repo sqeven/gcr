@@ -1,6 +1,14 @@
 [gcr.io/google-containers/hyperkube-arm64](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube-arm64:v1.11.5-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)**
+
+**[gcr.io/google_containers/hyperkube-arm64:v1.12.2 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)**
+
+**[gcr.io/google_containers/hyperkube-arm64:v1.11.4 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)**
+
+**[gcr.io/google_containers/hyperkube-arm64:v1.12.3-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)**
+
 [gcr.io/google_containers/hyperkube-arm64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
 [gcr.io/google_containers/hyperkube-arm64:v1.9.9 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
@@ -493,7 +501,11 @@
 
 [gcr.io/google_containers/hyperkube-arm64:v1.13.0-alpha.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
+[gcr.io/google_containers/hyperkube-arm64:v1.12.3-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
+
 [gcr.io/google_containers/hyperkube-arm64:v1.12.2-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
+
+[gcr.io/google_containers/hyperkube-arm64:v1.12.2 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
 [gcr.io/google_containers/hyperkube-arm64:v1.12.1-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
@@ -515,7 +527,11 @@
 
 [gcr.io/google_containers/hyperkube-arm64:v1.12.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
+[gcr.io/google_containers/hyperkube-arm64:v1.11.5-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
+
 [gcr.io/google_containers/hyperkube-arm64:v1.11.4-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
+
+[gcr.io/google_containers/hyperkube-arm64:v1.11.4 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
 [gcr.io/google_containers/hyperkube-arm64:v1.11.3-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
