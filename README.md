@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-10-30 16:33 UTC]
+Google Container Registry Mirror [last seven 2018-10-31 16:34 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 461's gcr.io images
+Total of 462's gcr.io images
 -------
 
 Useage
@@ -663,6 +663,8 @@ Images
 [gcr.io/google_containers/logexporter √](https://hub.docker.com/r/sqeven/logexporter/tags/)
 
 [gcr.io/google_containers/logs-generator √](https://hub.docker.com/r/sqeven/logs-generator/tags/)
+
+[gcr.io/google_containers/managed-certificate-controller √](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/)
 
 [gcr.io/google_containers/metadata-proxy √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
 
