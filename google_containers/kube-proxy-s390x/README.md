@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-proxy-s390x](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-proxy-s390x:v1.13.0-alpha.3 updated](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)**
-
 [gcr.io/google_containers/kube-proxy-s390x:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
