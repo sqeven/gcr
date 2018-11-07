@@ -1,3 +1,8 @@
+## 2018-11-07 
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.3.2 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
+
+
 ## 2018-11-06 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 

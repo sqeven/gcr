@@ -43,6 +43,8 @@
 
 [gcr.io/google_containers/cluster-autoscaler:v1.1.3 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
+[gcr.io/google_containers/cluster-autoscaler:v1.12.1 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
+
 [gcr.io/google_containers/cluster-autoscaler:v1.12.0-beta.1 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
 [gcr.io/google_containers/cluster-autoscaler:v1.12.0 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
