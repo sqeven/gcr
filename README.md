@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2018-11-08 16:38 UTC]
+Google Container Registry Mirror [last seven 2018-11-09 16:40 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 462's gcr.io images
+Total of 468's gcr.io images
 -------
 
 Useage
@@ -463,6 +463,18 @@ Images
 [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/)
 
 [gcr.io/google_containers/k8s-dns-kube-dns-s390x √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/)
+
+[gcr.io/google_containers/k8s-dns-node-cache √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache/tags/)
+
+[gcr.io/google_containers/k8s-dns-node-cache-amd64 √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-amd64/tags/)
+
+[gcr.io/google_containers/k8s-dns-node-cache-arm √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/)
+
+[gcr.io/google_containers/k8s-dns-node-cache-arm64 √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm64/tags/)
+
+[gcr.io/google_containers/k8s-dns-node-cache-ppc64le √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-ppc64le/tags/)
+
+[gcr.io/google_containers/k8s-dns-node-cache-s390x √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-s390x/tags/)
 
 [gcr.io/google_containers/k8s-dns-sidecar √](https://hub.docker.com/r/sqeven/k8s-dns-sidecar/tags/)
 
