@@ -1,3 +1,17 @@
+## 2018-11-10 
+
+1. [gcr.io/google_containers/git-sync:v3.0.0 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.3.0 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.3.0 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.3.0 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2018-11-09 
 
 1. [gcr.io/google_containers/addon-resizer:1.8.4 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 

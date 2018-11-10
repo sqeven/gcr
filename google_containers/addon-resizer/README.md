@@ -1,8 +1,6 @@
 [gcr.io/google-containers/addon-resizer](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 
 
 ----
-**[gcr.io/google_containers/addon-resizer:1.8.4 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/)**
-
 [gcr.io/google_containers/addon-resizer:2.1 √](https://hub.docker.com/r/sqeven/addon-resizer/tags/)
 
 [gcr.io/google_containers/addon-resizer:2.0 √](https://hub.docker.com/r/sqeven/addon-resizer/tags/)
