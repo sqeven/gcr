@@ -1,5 +1,7 @@
 [gcr.io/google-containers/k8s-dns-node-cache](https://hub.docker.com/r/sqeven/k8s-dns-node-cache/tags/) 
 
 ----
+**[gcr.io/google_containers/k8s-dns-node-cache:1.15.0 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache/tags/)**
+
 [gcr.io/google_containers/k8s-dns-node-cache:1.15.0 √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache/tags/)
 
