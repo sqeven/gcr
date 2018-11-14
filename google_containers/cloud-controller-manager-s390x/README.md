@@ -1,6 +1,10 @@
 [gcr.io/google-containers/cloud-controller-manager-s390x](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/) 
 
 ----
+**[gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.11-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)**
+
+**[gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.10 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)**
+
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.9 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
@@ -311,7 +315,11 @@
 
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.1-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
 
+[gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.11-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
+
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.10-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.10 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.10.1 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/)
 
