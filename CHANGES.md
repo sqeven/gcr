@@ -1,3 +1,11 @@
+## 2018-11-16 
+
+1. [gcr.io/google_containers/gke-mpi-metadata-server:v0.1.0 updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/metadata-proxy:v0.1.11 updated](https://hub.docker.com/r/sqeven/metadata-proxy/tags/) 
+
+
 ## 2018-11-14 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.11-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
