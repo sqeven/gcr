@@ -1,3 +1,8 @@
+## 2018-11-19 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.13.0-alpha.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2018-11-17 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.13.0-beta.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
