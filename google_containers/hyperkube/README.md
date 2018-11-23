@@ -1,6 +1,8 @@
 [gcr.io/google-containers/hyperkube](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube:v1.13.0-beta.2 updated](https://hub.docker.com/r/sqeven/hyperkube/tags/)**
+
 [gcr.io/google_containers/hyperkube:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.9.9 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
@@ -538,6 +540,8 @@
 [gcr.io/google_containers/hyperkube:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.1.4 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
+[gcr.io/google_containers/hyperkube:v1.13.0-beta.2 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.13.0-beta.1 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
