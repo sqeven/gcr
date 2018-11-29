@@ -1,3 +1,14 @@
+## 2018-11-29 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.13.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-cloud-kms-plugin:v0.1.1 updated](https://hub.docker.com/r/sqeven/k8s-cloud-kms-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/node-problem-detector:v0.6.1 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2018-11-28 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
