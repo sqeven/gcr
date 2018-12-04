@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-controller-manager](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-controller-manager:v1.13.0 updated](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)**
+
+**[gcr.io/google_containers/kube-controller-manager:v1.13.1-beta.0 updated](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)**
+
 [gcr.io/google_containers/kube-controller-manager:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
 
 [gcr.io/google_containers/kube-controller-manager:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
@@ -533,6 +537,8 @@
 
 [gcr.io/google_containers/kube-controller-manager:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
 
+[gcr.io/google_containers/kube-controller-manager:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
+
 [gcr.io/google_containers/kube-controller-manager:v1.13.0-rc.2 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
 
 [gcr.io/google_containers/kube-controller-manager:v1.13.0-rc.1 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
@@ -550,6 +556,8 @@
 [gcr.io/google_containers/kube-controller-manager:v1.13.0-alpha.1 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
 
 [gcr.io/google_containers/kube-controller-manager:v1.13.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
+
+[gcr.io/google_containers/kube-controller-manager:v1.13.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
 
 [gcr.io/google_containers/kube-controller-manager:v1.12.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager/tags/)
 
