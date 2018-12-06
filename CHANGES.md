@@ -1,3 +1,14 @@
+## 2018-12-06 
+
+1. [gcr.io/google_containers/gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/gcp-controller-manager:67acdc25162c0ab6a055e6728fe4a7fa527b5f1a updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/kubelet-to-gcm:1.2.8 updated](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/) 
+
+
 ## 2018-12-05 
 
 1. [gcr.io/google_containers/gke-mpi-metadata-server:a36532e31f945b9b206effe7cdc95fe455410b6d updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 

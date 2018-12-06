@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gke-mpi-metadata-server](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/) 
 
 ----
-**[gcr.io/google_containers/gke-mpi-metadata-server:a36532e31f945b9b206effe7cdc95fe455410b6d updated](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)**
-
 [gcr.io/google_containers/gke-mpi-metadata-server:v0.1.2 √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
 
 [gcr.io/google_containers/gke-mpi-metadata-server:v0.1.1 √](https://hub.docker.com/r/sqeven/gke-mpi-metadata-server/tags/)
