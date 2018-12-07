@@ -1,3 +1,8 @@
+## 2018-12-07 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.13.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2018-12-06 
 
 1. [gcr.io/google_containers/gcp-controller-manager:007a1ce42cc908eaa13d385afb35df82181c2c37 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
