@@ -1,3 +1,14 @@
+## 2018-12-08 
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:aaaeb040a9af5f782275cbd5cc610582389578a3 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:aaaeb040a9af5f782275cbd5cc610582389578a3 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:d65bdb5dc2ed00db7713fb7ec6346885082a0aea updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-12-07 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.13.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
