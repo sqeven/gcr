@@ -295,7 +295,11 @@
 
 [gcr.io/google_containers/kube-scheduler-s390x:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
 
+[gcr.io/google_containers/kube-scheduler-s390x:v1.13.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
+
 [gcr.io/google_containers/kube-scheduler-s390x:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
+
+[gcr.io/google_containers/kube-scheduler-s390x:v1.13.1 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
 
 [gcr.io/google_containers/kube-scheduler-s390x:v1.13.0-rc.2 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
 
