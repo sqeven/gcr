@@ -1,3 +1,11 @@
+## 2018-12-15 
+
+1. [gcr.io/google_containers/kube-cross:v1.11.3-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.10.6-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2018-12-08 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:aaaeb040a9af5f782275cbd5cc610582389578a3 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
