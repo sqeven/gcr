@@ -1,3 +1,26 @@
+## 2018-12-18 
+
+1. [gcr.io/google_containers/cloud-controller-manager:v1.12.5-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube:v1.12.5-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.1 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm:v1.10.1 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.10.1 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.10.1 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.10.1 updated](https://hub.docker.com/r/sqeven/kubernetes-dashboard-s390x/tags/) 
+
+
 ## 2018-12-17 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.7-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 

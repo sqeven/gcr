@@ -1,14 +1,6 @@
 [gcr.io/google-containers/kube-scheduler](https://hub.docker.com/r/sqeven/kube-scheduler/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler:v1.12.5-beta.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler:v1.11.7-beta.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler:v1.12.4 updated](https://hub.docker.com/r/sqeven/kube-scheduler/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler:v1.11.6 updated](https://hub.docker.com/r/sqeven/kube-scheduler/tags/)**
-
 [gcr.io/google_containers/kube-scheduler:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler/tags/)
 
 [gcr.io/google_containers/kube-scheduler:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-scheduler/tags/)
