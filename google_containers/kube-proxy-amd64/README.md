@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-proxy-amd64](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-proxy-amd64:v1.10.12 updated](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)**
+
+**[gcr.io/google_containers/kube-proxy-amd64:v1.10.13-beta.0 updated](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)**
+
 [gcr.io/google_containers/kube-proxy-amd64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
 
 [gcr.io/google_containers/kube-proxy-amd64:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
@@ -677,7 +681,11 @@
 
 [gcr.io/google_containers/kube-proxy-amd64:v1.10.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
 
+[gcr.io/google_containers/kube-proxy-amd64:v1.10.13-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
+
 [gcr.io/google_containers/kube-proxy-amd64:v1.10.12-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
+
+[gcr.io/google_containers/kube-proxy-amd64:v1.10.12 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
 
 [gcr.io/google_containers/kube-proxy-amd64:v1.10.11-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/)
 
