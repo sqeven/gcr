@@ -1,3 +1,11 @@
+## 2019-01-04 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.3.5 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.3.0 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
 ## 2018-12-19 
 
 1. [gcr.io/google_containers/cadvisor:v0.32.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
