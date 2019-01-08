@@ -1,3 +1,8 @@
+## 2019-01-08 
+
+1. [gcr.io/google_containers/node-problem-detector:v0.6.2 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-01-07 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.2.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
