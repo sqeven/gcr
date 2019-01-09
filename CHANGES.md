@@ -1,3 +1,8 @@
+## 2019-01-09 
+
+1. [gcr.io/google_containers/managed-certificate-controller:v0.2 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
+
+
 ## 2019-01-08 
 
 1. [gcr.io/google_containers/node-problem-detector:v0.6.2 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
