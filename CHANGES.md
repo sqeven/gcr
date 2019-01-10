@@ -1,3 +1,8 @@
+## 2019-01-10 
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.1 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-01-09 
 
 1. [gcr.io/google_containers/managed-certificate-controller:v0.2 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
