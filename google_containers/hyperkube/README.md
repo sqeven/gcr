@@ -539,7 +539,11 @@
 
 [gcr.io/google_containers/hyperkube:v1.1.4 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
+[gcr.io/google_containers/hyperkube:v1.13.3-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
 [gcr.io/google_containers/hyperkube:v1.13.2-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
+
+[gcr.io/google_containers/hyperkube:v1.13.2 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube/tags/)
 

@@ -531,7 +531,11 @@
 
 [gcr.io/google_containers/kube-proxy:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-proxy/tags/)
 
+[gcr.io/google_containers/kube-proxy:v1.13.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy/tags/)
+
 [gcr.io/google_containers/kube-proxy:v1.13.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy/tags/)
+
+[gcr.io/google_containers/kube-proxy:v1.13.2 √](https://hub.docker.com/r/sqeven/kube-proxy/tags/)
 
 [gcr.io/google_containers/kube-proxy:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy/tags/)
 

@@ -539,7 +539,11 @@
 
 [gcr.io/google_containers/kube-apiserver-amd64:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
+[gcr.io/google_containers/kube-apiserver-amd64:v1.13.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
+
 [gcr.io/google_containers/kube-apiserver-amd64:v1.13.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
+
+[gcr.io/google_containers/kube-apiserver-amd64:v1.13.2 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-amd64:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
