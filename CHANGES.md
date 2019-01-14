@@ -1,3 +1,17 @@
+## 2019-01-14 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.12.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.4.0 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.5.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.5.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
 ## 2019-01-10 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.1 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
