@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-state-metrics](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-state-metrics:v1.5.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/)**
-
 [gcr.io/google_containers/kube-state-metrics:v1.5.0 √](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/)
 
 [gcr.io/google_containers/kube-state-metrics:v1.4.0 √](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/)

@@ -1,8 +1,6 @@
 [gcr.io/google-containers/fluentd-elasticsearch](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/) 
 
 ----
-**[gcr.io/google_containers/fluentd-elasticsearch:v2.4.0 updated](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/)**
-
 [gcr.io/google_containers/fluentd-elasticsearch:v2.4.0 √](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/)
 
 [gcr.io/google_containers/fluentd-elasticsearch:v2.3.2 √](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/)
