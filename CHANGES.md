@@ -1,3 +1,11 @@
+## 2019-01-16 
+
+1. [gcr.io/google_containers/coredns:1.3.1 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/gcp-controller-manager:e52657d8d1ef0d12543e14d728b4fc99a67314cb updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
 ## 2019-01-15 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.14.0-alpha.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
