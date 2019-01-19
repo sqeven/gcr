@@ -1,3 +1,11 @@
+## 2019-01-19 
+
+1. [gcr.io/google_containers/cos-kernel-headers:20190118-R00-00 updated](https://hub.docker.com/r/sqeven/cos-kernel-headers/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.2 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-01-18 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.12.6-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
