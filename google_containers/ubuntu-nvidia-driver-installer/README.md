@@ -1,9 +1,7 @@
 [gcr.io/google-containers/ubuntu-nvidia-driver-installer](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
 
 ----
-**[gcr.io/google_containers/ubuntu-nvidia-driver-installer:8768accc7565cebd3203fa08ebafad121b89d6dd updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)**
-
-**[gcr.io/google_containers/ubuntu-nvidia-driver-installer:feb27ef33e5fdf1b8ec7dafbf4cf527ee400278a updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)**
+**[gcr.io/google_containers/ubuntu-nvidia-driver-installer:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)**
 
 [gcr.io/google_containers/ubuntu-nvidia-driver-installer:feb27ef33e5fdf1b8ec7dafbf4cf527ee400278a √](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)
 
@@ -68,6 +66,8 @@
 [gcr.io/google_containers/ubuntu-nvidia-driver-installer:3c7afd67fe40d7ae91ee0fb2f1b5ec0a41775c10 √](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)
 
 [gcr.io/google_containers/ubuntu-nvidia-driver-installer:3793d66c9304c67da8a36aa7bed87667ddb65845 √](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)
+
+[gcr.io/google_containers/ubuntu-nvidia-driver-installer:36552a4cc81b0d900a0d46dfc8b5481557d1dcb7 √](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)
 
 [gcr.io/google_containers/ubuntu-nvidia-driver-installer:31ee590ea32667804438a380cea5f46064cf9f03 √](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/)
 
