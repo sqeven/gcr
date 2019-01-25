@@ -1,6 +1,10 @@
 [gcr.io/google-containers/cloud-controller-manager-arm64](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/) 
 
 ----
+**[gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.8-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)**
+
+**[gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.7 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)**
+
 [gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-arm64:v1.9.9 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
@@ -273,7 +277,11 @@
 
 [gcr.io/google_containers/cloud-controller-manager-arm64:v1.12.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
 
+[gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.8-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
+
 [gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.7-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.7 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.6-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/)
 
