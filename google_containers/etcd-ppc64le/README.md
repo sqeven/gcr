@@ -1,13 +1,15 @@
 [gcr.io/google-containers/etcd-ppc64le](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
 
 ----
-**[gcr.io/google_containers/etcd-ppc64le:3.2.26-0 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)**
+**[gcr.io/google_containers/etcd-ppc64le:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)**
 
 [gcr.io/google_containers/etcd-ppc64le:3.3.10-0 √](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)
 
 [gcr.io/google_containers/etcd-ppc64le:3.3.10 √](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)
 
 [gcr.io/google_containers/etcd-ppc64le:3.2.26-0 √](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)
+
+[gcr.io/google_containers/etcd-ppc64le:3.2.26 √](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)
 
 [gcr.io/google_containers/etcd-ppc64le:3.2.24-1 √](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/)
 

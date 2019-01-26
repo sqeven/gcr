@@ -1,3 +1,32 @@
+## 2019-01-26 
+
+1. [gcr.io/google_containers/etcd:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.2.26 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/git-sync:v3.1.0 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.11.5-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.10.8-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-01-25 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.8-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
