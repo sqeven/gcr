@@ -1,8 +1,6 @@
 [gcr.io/google-containers/cluster-proportional-autoscaler-amd64](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.4.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/)**
-
 [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.4.0 √](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/)
 
 [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.3.0 √](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/)

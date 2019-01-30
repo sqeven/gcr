@@ -1,6 +1,8 @@
 [gcr.io/google-containers/debian-hyperkube-base-ppc64le](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.12.1 updated](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)**
+
 [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.9 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)
 
 [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.8 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)
@@ -18,6 +20,8 @@
 [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.3 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)
 
 [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.2 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)
+
+[gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.12.1 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)
 
 [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.12.0 √](https://hub.docker.com/r/sqeven/debian-hyperkube-base-ppc64le/tags/)
 
