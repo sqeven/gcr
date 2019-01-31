@@ -1,3 +1,14 @@
+## 2019-01-31 
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.3.1 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.3.1 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.3.1 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2019-01-30 
 
 1. [gcr.io/google_containers/debian-base:0.4.1 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 
