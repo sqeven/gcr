@@ -1,6 +1,10 @@
 [gcr.io/google-containers/hyperkube-arm64](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube-arm64:v1.13.3 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)**
+
+**[gcr.io/google_containers/hyperkube-arm64:v1.13.4-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)**
+
 [gcr.io/google_containers/hyperkube-arm64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
 [gcr.io/google_containers/hyperkube-arm64:v1.9.9 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
@@ -493,7 +497,11 @@
 
 [gcr.io/google_containers/hyperkube-arm64:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
+[gcr.io/google_containers/hyperkube-arm64:v1.13.4-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
+
 [gcr.io/google_containers/hyperkube-arm64:v1.13.3-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
+
+[gcr.io/google_containers/hyperkube-arm64:v1.13.3 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
 [gcr.io/google_containers/hyperkube-arm64:v1.13.2-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm64/tags/)
 
