@@ -1,3 +1,8 @@
+## 2019-02-06 
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.4.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2019-02-02 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.13.3 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
