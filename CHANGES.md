@@ -1,3 +1,14 @@
+## 2019-02-08 
+
+1. [gcr.io/google_containers/gcsweb:v1.1.0 updated](https://hub.docker.com/r/sqeven/gcsweb/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:fbca48342ca066be633c30f683b70b7c8ea5d6d0 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:fbca48342ca066be633c30f683b70b7c8ea5d6d0 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-02-06 
 
 1. [gcr.io/google_containers/prometheus-to-sd:v0.4.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
