@@ -1,6 +1,10 @@
 [gcr.io/google-containers/ingress-gce-glbc-amd64](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.3 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/)**
+
+[gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.3 √](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/)
+
 [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.2 √](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/)
 
 [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.4.1 √](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/)
