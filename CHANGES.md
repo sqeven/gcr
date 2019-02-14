@@ -1,3 +1,11 @@
+## 2019-02-14 
+
+1. [gcr.io/google_containers/gke-cloud-kms-plugin:0.2 updated](https://hub.docker.com/r/sqeven/gke-cloud-kms-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/gke-cloud-kms-sync:0.1 updated](https://hub.docker.com/r/sqeven/gke-cloud-kms-sync/tags/) 
+
+
 ## 2019-02-13 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.13 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
