@@ -1,3 +1,11 @@
+## 2019-02-15 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.3.7 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/git-sync:v3.1.1 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
 ## 2019-02-14 
 
 1. [gcr.io/google_containers/gke-cloud-kms-plugin:0.2 updated](https://hub.docker.com/r/sqeven/gke-cloud-kms-plugin/tags/) 
