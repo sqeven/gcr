@@ -1,3 +1,14 @@
+## 2019-02-20 
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.4.0 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.4.0 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.4.0 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2019-02-19 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.14.0-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
