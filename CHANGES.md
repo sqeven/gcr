@@ -1,3 +1,8 @@
+## 2019-02-21 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.9.0 updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2019-02-20 
 
 1. [gcr.io/google_containers/vpa-admission-controller:0.4.0 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
