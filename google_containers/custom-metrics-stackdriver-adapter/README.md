@@ -1,8 +1,6 @@
 [gcr.io/google-containers/custom-metrics-stackdriver-adapter](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
 
 ----
-**[gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.9.0 updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/)**
-
 [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.9.0 √](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/)
 
 [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.8.0 √](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/)
