@@ -1,7 +1,9 @@
 [gcr.io/google-containers/kube-proxy-ppc64le](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-proxy-ppc64le:v1.14.0-beta.1 updated](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)**
+**[gcr.io/google_containers/kube-proxy-ppc64le:v1.13.4 updated](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)**
+
+**[gcr.io/google_containers/kube-proxy-ppc64le:v1.13.5-beta.0 updated](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)**
 
 [gcr.io/google_containers/kube-proxy-ppc64le:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)
 
@@ -361,7 +363,11 @@
 
 [gcr.io/google_containers/kube-proxy-ppc64le:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)
 
+[gcr.io/google_containers/kube-proxy-ppc64le:v1.13.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)
+
 [gcr.io/google_containers/kube-proxy-ppc64le:v1.13.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)
+
+[gcr.io/google_containers/kube-proxy-ppc64le:v1.13.4 √](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-proxy-ppc64le:v1.13.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-ppc64le/tags/)
 

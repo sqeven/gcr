@@ -1,7 +1,9 @@
 [gcr.io/google-containers/conformance-amd64](https://hub.docker.com/r/sqeven/conformance-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/conformance-amd64:v1.14.0-beta.1 updated](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)**
+**[gcr.io/google_containers/conformance-amd64:v1.13.4 updated](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)**
+
+**[gcr.io/google_containers/conformance-amd64:v1.13.5-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)**
 
 [gcr.io/google_containers/conformance-amd64:v1.15.0-alpha.0 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
 
@@ -17,7 +19,11 @@
 
 [gcr.io/google_containers/conformance-amd64:v1.14.0-alpha.0 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
 
+[gcr.io/google_containers/conformance-amd64:v1.13.5-beta.0 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
+
 [gcr.io/google_containers/conformance-amd64:v1.13.4-beta.0 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
+
+[gcr.io/google_containers/conformance-amd64:v1.13.4 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
 
 [gcr.io/google_containers/conformance-amd64:v1.13.3-beta.0 √](https://hub.docker.com/r/sqeven/conformance-amd64/tags/)
 
