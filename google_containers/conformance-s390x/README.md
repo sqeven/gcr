@@ -1,10 +1,6 @@
 [gcr.io/google-containers/conformance-s390x](https://hub.docker.com/r/sqeven/conformance-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/conformance-s390x:v1.13.4 updated](https://hub.docker.com/r/sqeven/conformance-s390x/tags/)**
-
-**[gcr.io/google_containers/conformance-s390x:v1.13.5-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-s390x/tags/)**
-
 [gcr.io/google_containers/conformance-s390x:v1.15.0-alpha.0 √](https://hub.docker.com/r/sqeven/conformance-s390x/tags/)
 
 [gcr.io/google_containers/conformance-s390x:v1.14.0-beta.1 √](https://hub.docker.com/r/sqeven/conformance-s390x/tags/)

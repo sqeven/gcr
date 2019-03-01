@@ -1,10 +1,6 @@
 [gcr.io/google-containers/conformance-arm64](https://hub.docker.com/r/sqeven/conformance-arm64/tags/) 
 
 ----
-**[gcr.io/google_containers/conformance-arm64:v1.13.4 updated](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)**
-
-**[gcr.io/google_containers/conformance-arm64:v1.13.5-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)**
-
 [gcr.io/google_containers/conformance-arm64:v1.15.0-alpha.0 √](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)
 
 [gcr.io/google_containers/conformance-arm64:v1.14.0-beta.1 √](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)
