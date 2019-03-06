@@ -1,3 +1,8 @@
+## 2019-03-06 
+
+1. [gcr.io/google_containers/managed-certificate-controller:v0.3.0 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
+
+
 ## 2019-03-04 
 
 1. [gcr.io/google_containers/kubelet-to-gcm:1.2.9 updated](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/) 
