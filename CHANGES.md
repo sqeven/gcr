@@ -1,3 +1,8 @@
+## 2019-03-07 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.5 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2019-03-06 
 
 1. [gcr.io/google_containers/managed-certificate-controller:v0.3.0 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
