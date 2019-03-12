@@ -1,3 +1,11 @@
+## 2019-03-12 
+
+1. [gcr.io/google_containers/fluentd-gcp-scaler:0.5.1 updated](https://hub.docker.com/r/sqeven/fluentd-gcp-scaler/tags/) 
+
+
+1. [gcr.io/google_containers/gke-metadata-server:0cc277a18a8958daf46012010175fddd5f8ac044 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
+
+
 ## 2019-03-11 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.13.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
