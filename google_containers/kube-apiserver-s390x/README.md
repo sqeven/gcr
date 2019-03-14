@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-apiserver-s390x](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-apiserver-s390x:v1.14.0-beta.2 updated](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)**
-
 [gcr.io/google_containers/kube-apiserver-s390x:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)
 
 [gcr.io/google_containers/kube-apiserver-s390x:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-apiserver-s390x/tags/)

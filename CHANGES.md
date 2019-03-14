@@ -1,3 +1,11 @@
+## 2019-03-14 
+
+1. [gcr.io/google_containers/fluentd-gcp:2.1.0 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
+
+
+1. [gcr.io/google_containers/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
+
+
 ## 2019-03-13 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.14.0-beta.2 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
