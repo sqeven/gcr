@@ -1,3 +1,17 @@
+## 2019-03-15 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.14.0-beta.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/gke-metadata-server:24c80908bf1c4b1ce589bc755b6f05904fc589b6 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0585ea2d8131291cc041329e32bb7c81263cf7c5 updated](https://hub.docker.com/r/sqeven/k8s-tpu-operator/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.5.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2019-03-14 
 
 1. [gcr.io/google_containers/fluentd-gcp:2.1.0 updated](https://hub.docker.com/r/sqeven/fluentd-gcp/tags/) 
