@@ -1,3 +1,8 @@
+## 2019-03-16 
+
+1. [gcr.io/google_containers/kube-cross:v1.12.1-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-03-15 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.14.0-beta.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
