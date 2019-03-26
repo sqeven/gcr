@@ -1,3 +1,32 @@
+## 2019-03-26 
+
+1. [gcr.io/google_containers/debian-base:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-amd64:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm64:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-ppc64le:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-s390x:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.5.0 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.5.0 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.5.0 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2019-03-21 
 
 1. [gcr.io/google_containers/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
