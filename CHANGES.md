@@ -1,3 +1,17 @@
+## 2019-03-29 
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.5.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.5.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-arm64:1.5.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le:1.5.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-ppc64le/tags/) 
+
+
 ## 2019-03-26 
 
 1. [gcr.io/google_containers/debian-base:v1.0.0 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 
