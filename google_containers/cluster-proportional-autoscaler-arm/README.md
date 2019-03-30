@@ -1,8 +1,6 @@
 [gcr.io/google-containers/cluster-proportional-autoscaler-arm](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.5.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm/tags/)**
-
 [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.5.0 √](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm/tags/)
 
 [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.4.0 √](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm/tags/)
