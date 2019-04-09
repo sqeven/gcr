@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-04-08 17:56 UTC]
+Google Container Registry Mirror [last seven 2019-04-09 17:57 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 472's gcr.io images
+Total of 473's gcr.io images
 -------
 
 Useage
@@ -957,6 +957,8 @@ Images
 [gcr.io/google_containers/vpa-recommender √](https://hub.docker.com/r/sqeven/vpa-recommender/tags/)
 
 [gcr.io/google_containers/vpa-updater √](https://hub.docker.com/r/sqeven/vpa-updater/tags/)
+
+[gcr.io/google_containers/watcher-daemonset √](https://hub.docker.com/r/sqeven/watcher-daemonset/tags/)
 
 [gcr.io/google_containers/webhooks-publisher √](https://hub.docker.com/r/sqeven/webhooks-publisher/tags/)
 
