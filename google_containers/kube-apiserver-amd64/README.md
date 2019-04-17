@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-apiserver-amd64](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-apiserver-amd64:v1.15.0-alpha.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)**
+
 [gcr.io/google_containers/kube-apiserver-amd64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-amd64:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
@@ -536,6 +538,8 @@
 [gcr.io/google_containers/kube-apiserver-amd64:v1.2.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-amd64:v1.1.6 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
+
+[gcr.io/google_containers/kube-apiserver-amd64:v1.15.0-alpha.1 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
 [gcr.io/google_containers/kube-apiserver-amd64:v1.15.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-amd64/tags/)
 
