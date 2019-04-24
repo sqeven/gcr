@@ -1,6 +1,10 @@
 [gcr.io/google-containers/hyperkube-ppc64le](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube-ppc64le:v1.12.8 updated](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)**
+
+**[gcr.io/google_containers/hyperkube-ppc64le:v1.12.9-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)**
+
 [gcr.io/google_containers/hyperkube-ppc64le:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
 
 [gcr.io/google_containers/hyperkube-ppc64le:v1.9.9 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
@@ -377,7 +381,11 @@
 
 [gcr.io/google_containers/hyperkube-ppc64le:v1.13.0 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
 
+[gcr.io/google_containers/hyperkube-ppc64le:v1.12.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
+
 [gcr.io/google_containers/hyperkube-ppc64le:v1.12.8-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
+
+[gcr.io/google_containers/hyperkube-ppc64le:v1.12.8 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
 
 [gcr.io/google_containers/hyperkube-ppc64le:v1.12.7-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
 

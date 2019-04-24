@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-controller-manager-amd64](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-controller-manager-amd64:v1.12.8 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)**
+
+**[gcr.io/google_containers/kube-controller-manager-amd64:v1.12.9-beta.0 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)**
+
 [gcr.io/google_containers/kube-controller-manager-amd64:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-amd64:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
@@ -607,7 +611,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-amd64:v1.13.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-amd64:v1.12.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-amd64:v1.12.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-amd64:v1.12.8 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-amd64:v1.12.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-amd64/tags/)
 
