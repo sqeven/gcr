@@ -1,3 +1,92 @@
+## 2019-04-25 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.13.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.14.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.12.5 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-arm64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-ppc64le:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-s390x:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-ppc64le:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.15.2 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:ae2f5c7c6f1e8252e0ab210a5f6aab4f766dc056 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:ae2f5c7c6f1e8252e0ab210a5f6aab4f766dc056 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-04-24 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.12.8 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 

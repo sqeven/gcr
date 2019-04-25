@@ -1,13 +1,11 @@
 [gcr.io/google-containers/cluster-autoscaler](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
 
 ----
-**[gcr.io/google_containers/cluster-autoscaler:v1.13.3 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
+**[gcr.io/google_containers/cluster-autoscaler:v1.13.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
 
-**[gcr.io/google_containers/cluster-autoscaler:v1.3.9 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
+**[gcr.io/google_containers/cluster-autoscaler:v1.14.2 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
 
-**[gcr.io/google_containers/cluster-autoscaler:v1.14.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
-
-**[gcr.io/google_containers/cluster-autoscaler:v1.12.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
+**[gcr.io/google_containers/cluster-autoscaler:v1.12.5 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)**
 
 [gcr.io/google_containers/cluster-autoscaler:v1.3.9 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
@@ -63,6 +61,8 @@
 
 [gcr.io/google_containers/cluster-autoscaler:v1.2.0 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
+[gcr.io/google_containers/cluster-autoscaler:v1.14.2 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
+
 [gcr.io/google_containers/cluster-autoscaler:v1.14.1 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
 [gcr.io/google_containers/cluster-autoscaler:v1.14.0-beta.2 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
@@ -70,6 +70,8 @@
 [gcr.io/google_containers/cluster-autoscaler:v1.14.0-beta.1 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
 [gcr.io/google_containers/cluster-autoscaler:v1.14.0 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
+
+[gcr.io/google_containers/cluster-autoscaler:v1.13.4 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
 [gcr.io/google_containers/cluster-autoscaler:v1.13.3 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
@@ -86,6 +88,8 @@
 [gcr.io/google_containers/cluster-autoscaler:v1.13.0 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
 [gcr.io/google_containers/cluster-autoscaler:v1.1.3 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
+
+[gcr.io/google_containers/cluster-autoscaler:v1.12.5 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
 [gcr.io/google_containers/cluster-autoscaler:v1.12.4 √](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/)
 
