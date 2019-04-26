@@ -1,3 +1,14 @@
+## 2019-04-26 
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.5.1 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.5.1 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.5.1 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2019-04-25 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.13.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
