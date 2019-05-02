@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-aggregator-s390x](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-aggregator-s390x:v1.11.10 updated](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)**
+
+**[gcr.io/google_containers/kube-aggregator-s390x:v1.11.11-beta.0 updated](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)**
+
 [gcr.io/google_containers/kube-aggregator-s390x:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
 
 [gcr.io/google_containers/kube-aggregator-s390x:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
@@ -203,7 +207,11 @@
 
 [gcr.io/google_containers/kube-aggregator-s390x:v1.11.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
 
+[gcr.io/google_containers/kube-aggregator-s390x:v1.11.11-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
+
 [gcr.io/google_containers/kube-aggregator-s390x:v1.11.10-beta.0 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
+
+[gcr.io/google_containers/kube-aggregator-s390x:v1.11.10 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
 
 [gcr.io/google_containers/kube-aggregator-s390x:v1.11.1 √](https://hub.docker.com/r/sqeven/kube-aggregator-s390x/tags/)
 
