@@ -1,6 +1,8 @@
 [gcr.io/google-containers/gcp-controller-manager](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
 
 ----
+**[gcr.io/google_containers/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)**
+
 [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r5 √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
 
 [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r4 √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
@@ -8,6 +10,8 @@
 [gcr.io/google_containers/gcp-controller-manager:e52657d8d1ef0d12543e14d728b4fc99a67314cb √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
 
 [gcr.io/google_containers/gcp-controller-manager:e463d10aaa01cde79b4ea9125a9e52626baa6a19 √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
+
+[gcr.io/google_containers/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
 
 [gcr.io/google_containers/gcp-controller-manager:b30912607c944f0b7935f24aa1fc391e0b112101 √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
 

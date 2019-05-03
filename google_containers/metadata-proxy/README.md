@@ -1,6 +1,8 @@
 [gcr.io/google-containers/metadata-proxy](https://hub.docker.com/r/sqeven/metadata-proxy/tags/) 
 
 ----
+**[gcr.io/google_containers/metadata-proxy:v0.1.12 updated](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)**
+
 [gcr.io/google_containers/metadata-proxy:v0.1.9 √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
 
 [gcr.io/google_containers/metadata-proxy:v0.1.8 √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
@@ -14,6 +16,8 @@
 [gcr.io/google_containers/metadata-proxy:v0.1.4-r1 √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
 
 [gcr.io/google_containers/metadata-proxy:v0.1.4 √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
+
+[gcr.io/google_containers/metadata-proxy:v0.1.12 √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
 
 [gcr.io/google_containers/metadata-proxy:v0.1.11 √](https://hub.docker.com/r/sqeven/metadata-proxy/tags/)
 
