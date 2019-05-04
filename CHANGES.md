@@ -1,3 +1,11 @@
+## 2019-05-04 
+
+1. [gcr.io/google_containers/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.5.2 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-05-03 
 
 1. [gcr.io/google_containers/gcp-controller-manager:c0cb3ff2564945d3338fdf90e700aa286fba5f2e updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
