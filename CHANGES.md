@@ -1,3 +1,26 @@
+## 2019-05-07 
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.6.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.6.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm:v1.6.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm64:v1.6.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.6.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-s390x:v1.6.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/managed-certificate-controller:v0.3.2 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
+
+
 ## 2019-05-04 
 
 1. [gcr.io/google_containers/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
