@@ -1,6 +1,12 @@
 [gcr.io/google-containers/kube-scheduler-arm](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-scheduler-arm:v1.15.0-alpha.3 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)**
+
+**[gcr.io/google_containers/kube-scheduler-arm:v1.13.6 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)**
+
+**[gcr.io/google_containers/kube-scheduler-arm:v1.13.7-beta.0 updated](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)**
+
 [gcr.io/google_containers/kube-scheduler-arm:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
@@ -521,6 +527,8 @@
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.2.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
+[gcr.io/google_containers/kube-scheduler-arm:v1.15.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
+
 [gcr.io/google_containers/kube-scheduler-arm:v1.15.0-alpha.2 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.15.0-alpha.1 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
@@ -551,7 +559,11 @@
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.14.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
+[gcr.io/google_containers/kube-scheduler-arm:v1.13.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
+
 [gcr.io/google_containers/kube-scheduler-arm:v1.13.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
+
+[gcr.io/google_containers/kube-scheduler-arm:v1.13.6 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.13.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
