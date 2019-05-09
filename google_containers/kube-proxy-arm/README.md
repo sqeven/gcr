@@ -1,12 +1,6 @@
 [gcr.io/google-containers/kube-proxy-arm](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-proxy-arm:v1.15.0-alpha.3 updated](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/)**
-
-**[gcr.io/google_containers/kube-proxy-arm:v1.13.6 updated](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/)**
-
-**[gcr.io/google_containers/kube-proxy-arm:v1.13.7-beta.0 updated](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/)**
-
 [gcr.io/google_containers/kube-proxy-arm:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/)
 
 [gcr.io/google_containers/kube-proxy-arm:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-proxy-arm/tags/)

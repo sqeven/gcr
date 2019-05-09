@@ -1,3 +1,17 @@
+## 2019-05-09 
+
+1. [gcr.io/google_containers/etcd:3.3.10-1 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.3.10-1 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.3.10.1 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-version-monitor:0.1.3 updated](https://hub.docker.com/r/sqeven/etcd-version-monitor/tags/) 
+
+
 ## 2019-05-08 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.15.0-alpha.3 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
