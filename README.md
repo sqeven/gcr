@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-05-13 18:12 UTC]
+Google Container Registry Mirror [last seven 2019-05-14 18:13 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 473's gcr.io images
+Total of 474's gcr.io images
 -------
 
 Useage
@@ -405,6 +405,8 @@ Images
 [gcr.io/google_containers/ingress-gce-glbc-amd64 √](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/)
 
 [gcr.io/google_containers/iperf √](https://hub.docker.com/r/sqeven/iperf/tags/)
+
+[gcr.io/google_containers/ip-masq-agent √](https://hub.docker.com/r/sqeven/ip-masq-agent/tags/)
 
 [gcr.io/google_containers/ip-masq-agent-amd64 √](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/)
 

@@ -1,6 +1,10 @@
 [gcr.io/google-containers/ip-masq-agent-amd64](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/ip-masq-agent-amd64:v2.4.0 updated](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/)**
+
+[gcr.io/google_containers/ip-masq-agent-amd64:v2.4.0 √](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/)
+
 [gcr.io/google_containers/ip-masq-agent-amd64:v2.3.0 √](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/)
 
 [gcr.io/google_containers/ip-masq-agent-amd64:v2.2.1 √](https://hub.docker.com/r/sqeven/ip-masq-agent-amd64/tags/)
