@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-controller-manager-ppc64le](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-controller-manager-ppc64le:v1.14.2 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)**
+
+**[gcr.io/google_containers/kube-controller-manager-ppc64le:v1.14.3-beta.0 updated](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)**
+
 [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
@@ -357,7 +361,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.15.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-ppc64le:v1.14.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.14.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-ppc64le:v1.14.2 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.14.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-ppc64le/tags/)
 
