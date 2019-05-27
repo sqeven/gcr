@@ -1,3 +1,8 @@
+## 2019-05-27 
+
+1. [gcr.io/google_containers/addon-resizer:1.8.5 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 
+
+
 ## 2019-05-24 
 
 1. [gcr.io/google_containers/toolbox:20190523-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
