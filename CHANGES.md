@@ -1,3 +1,26 @@
+## 2019-05-30 
+
+1. [gcr.io/google_containers/managed-certificate-controller:v0.3.3 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:3094d4b75351008bbd0813a12bdadcd00c9756bf updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:4baa941d8df91e5dc1736adea74ce54e564dd782 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/proxy-agent:v0.0.1 updated](https://hub.docker.com/r/sqeven/proxy-agent/tags/) 
+
+
+1. [gcr.io/google_containers/proxy-server:v0.0.1 updated](https://hub.docker.com/r/sqeven/proxy-server/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:3094d4b75351008bbd0813a12bdadcd00c9756bf updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:4baa941d8df91e5dc1736adea74ce54e564dd782 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-05-29 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.15.0-beta.1 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 

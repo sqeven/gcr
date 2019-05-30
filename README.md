@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-05-29 18:21 UTC]
+Google Container Registry Mirror [last seven 2019-05-30 18:22 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 474's gcr.io images
+Total of 476's gcr.io images
 -------
 
 Useage
@@ -807,6 +807,10 @@ Images
 [gcr.io/google_containers/prometheus-dummy-exporter √](https://hub.docker.com/r/sqeven/prometheus-dummy-exporter/tags/)
 
 [gcr.io/google_containers/prometheus-to-sd √](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/)
+
+[gcr.io/google_containers/proxy-agent √](https://hub.docker.com/r/sqeven/proxy-agent/tags/)
+
+[gcr.io/google_containers/proxy-server √](https://hub.docker.com/r/sqeven/proxy-server/tags/)
 
 [gcr.io/google_containers/proxy-to-service √](https://hub.docker.com/r/sqeven/proxy-to-service/tags/)
 
