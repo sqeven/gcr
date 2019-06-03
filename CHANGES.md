@@ -1,3 +1,14 @@
+## 2019-06-03 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.12.6 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.13.5 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.14.3 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2019-05-31 
 
 1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.3 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
