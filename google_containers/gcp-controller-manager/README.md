@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gcp-controller-manager](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
 
 ----
-**[gcr.io/google_containers/gcp-controller-manager:491d4fc8d5767593f36e00e71428a40455a15819 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)**
-
 [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r5 √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
 
 [gcr.io/google_containers/gcp-controller-manager:v1.11.0-r4 √](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/)
