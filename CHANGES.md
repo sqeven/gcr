@@ -1,3 +1,8 @@
+## 2019-06-14 
+
+1. [gcr.io/google_containers/node-problem-detector:v0.6.4 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-06-13 
 
 1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.4 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
