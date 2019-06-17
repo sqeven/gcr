@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-06-16 18:28 UTC]
+Google Container Registry Mirror [last seven 2019-06-17 18:29 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 476's gcr.io images
+Total of 477's gcr.io images
 -------
 
 Useage
@@ -401,6 +401,8 @@ Images
 [gcr.io/google_containers/hyperkube-ppc64le √](https://hub.docker.com/r/sqeven/hyperkube-ppc64le/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
+
+[gcr.io/google_containers/ingress-gce-404-server-with-metrics-amd64 √](https://hub.docker.com/r/sqeven/ingress-gce-404-server-with-metrics-amd64/tags/)
 
 [gcr.io/google_containers/ingress-gce-glbc-amd64 √](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/)
 
