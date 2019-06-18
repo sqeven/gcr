@@ -1,3 +1,8 @@
+## 2019-06-18 
+
+1. [gcr.io/google_containers/kube-cross:v1.12.6-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-06-17 
 
 1. [gcr.io/google_containers/ingress-gce-404-server-with-metrics-amd64:v1.6.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-404-server-with-metrics-amd64/tags/) 
