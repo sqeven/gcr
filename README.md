@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-06-18 18:40 UTC]
+Google Container Registry Mirror [last seven 2019-06-19 18:31 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 477's gcr.io images
+Total of 478's gcr.io images
 -------
 
 Useage
@@ -275,6 +275,8 @@ Images
 [gcr.io/google_containers/flannel-ppc64le √](https://hub.docker.com/r/sqeven/flannel-ppc64le/tags/)
 
 [gcr.io/google_containers/flannel-server-helper √](https://hub.docker.com/r/sqeven/flannel-server-helper/tags/)
+
+[gcr.io/google_containers/fluent-bit-sd √](https://hub.docker.com/r/sqeven/fluent-bit-sd/tags/)
 
 [gcr.io/google_containers/fluentd-elasticsearch √](https://hub.docker.com/r/sqeven/fluentd-elasticsearch/tags/)
 
