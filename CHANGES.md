@@ -1,3 +1,38 @@
+## 2019-06-20 
+
+1. [gcr.io/google_containers/cloud-controller-manager:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm64:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-s390x:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/conformance:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-arm64:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-ppc64le:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-s390x:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/kube-apiserver/tags/) 
+
+
 ## 2019-06-19 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.15.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
