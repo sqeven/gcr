@@ -1,3 +1,8 @@
+## 2019-06-22 
+
+1. [gcr.io/google_containers/kube-proxy-amd64:v1.12.7-gke.22 updated](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/) 
+
+
 ## 2019-06-20 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.15.1-beta.0 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
