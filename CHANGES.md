@@ -1,3 +1,8 @@
+## 2019-07-03 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
 ## 2019-06-22 
 
 1. [gcr.io/google_containers/kube-proxy-amd64:v1.12.7-gke.22 updated](https://hub.docker.com/r/sqeven/kube-proxy-amd64/tags/) 
