@@ -1,3 +1,8 @@
+## 2019-07-09 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
 ## 2019-07-05 
 
 1. [gcr.io/google_containers/heapster-amd64:v1.7.0 updated](https://hub.docker.com/r/sqeven/heapster-amd64/tags/) 
