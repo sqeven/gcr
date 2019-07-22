@@ -1,3 +1,26 @@
+## 2019-07-22 
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm64:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-s390x:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.6.0 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2019-07-19 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.12.7 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
