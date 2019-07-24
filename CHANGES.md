@@ -1,3 +1,8 @@
+## 2019-07-24 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
+
+
 ## 2019-07-22 
 
 1. [gcr.io/google_containers/kube-state-metrics:v1.7.1 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
