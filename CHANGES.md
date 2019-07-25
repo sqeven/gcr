@@ -1,3 +1,8 @@
+## 2019-07-25 
+
+1. [gcr.io/google_containers/node-problem-detector:v0.6.5 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-07-24 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/sqeven/addon-builder/tags/) 
