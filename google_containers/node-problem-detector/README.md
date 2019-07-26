@@ -1,8 +1,6 @@
 [gcr.io/google-containers/node-problem-detector](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
 
 ----
-**[gcr.io/google_containers/node-problem-detector:v0.6.5 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/)**
-
 [gcr.io/google_containers/node-problem-detector:v0.6.5 √](https://hub.docker.com/r/sqeven/node-problem-detector/tags/)
 
 [gcr.io/google_containers/node-problem-detector:v0.6.4 √](https://hub.docker.com/r/sqeven/node-problem-detector/tags/)
