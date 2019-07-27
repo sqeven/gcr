@@ -1,3 +1,11 @@
+## 2019-07-27 
+
+1. [gcr.io/google_containers/git-sync:v3.1.2 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
+1. [gcr.io/google_containers/node-problem-detector:v0.7.0 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-07-25 
 
 1. [gcr.io/google_containers/node-problem-detector:v0.6.5 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
