@@ -1,8 +1,6 @@
 [gcr.io/google-containers/git-sync](https://hub.docker.com/r/sqeven/git-sync/tags/) 
 
 ----
-**[gcr.io/google_containers/git-sync:v3.1.2 updated](https://hub.docker.com/r/sqeven/git-sync/tags/)**
-
 [gcr.io/google_containers/git-sync:v3.1.2 √](https://hub.docker.com/r/sqeven/git-sync/tags/)
 
 [gcr.io/google_containers/git-sync:v3.1.1 √](https://hub.docker.com/r/sqeven/git-sync/tags/)
