@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-scheduler-s390x](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler-s390x:v1.16.0-alpha.2 updated](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)**
-
 [gcr.io/google_containers/kube-scheduler-s390x:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
 
 [gcr.io/google_containers/kube-scheduler-s390x:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-scheduler-s390x/tags/)
