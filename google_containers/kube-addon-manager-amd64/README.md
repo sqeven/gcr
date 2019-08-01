@@ -1,6 +1,10 @@
 [gcr.io/google-containers/kube-addon-manager-amd64](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-addon-manager-amd64:v9.0.2 updated](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/)**
+
+[gcr.io/google_containers/kube-addon-manager-amd64:v9.0.2 √](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/)
+
 [gcr.io/google_containers/kube-addon-manager-amd64:v9.0.1 √](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/)
 
 [gcr.io/google_containers/kube-addon-manager-amd64:v9.0 √](https://hub.docker.com/r/sqeven/kube-addon-manager-amd64/tags/)
