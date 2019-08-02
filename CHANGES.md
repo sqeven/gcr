@@ -1,3 +1,8 @@
+## 2019-08-02 
+
+1. [gcr.io/google_containers/event-exporter:v0.3.0 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/) 
+
+
 ## 2019-08-01 
 
 1. [gcr.io/google_containers/cos-kernel-headers:20190731-R00-00 updated](https://hub.docker.com/r/sqeven/cos-kernel-headers/tags/) 
