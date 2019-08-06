@@ -299,7 +299,11 @@
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.16.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
+[gcr.io/google_containers/kube-proxy-s390x:v1.15.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
+
 [gcr.io/google_containers/kube-proxy-s390x:v1.15.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
+
+[gcr.io/google_containers/kube-proxy-s390x:v1.15.2 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.15.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
@@ -323,7 +327,11 @@
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.15.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
+[gcr.io/google_containers/kube-proxy-s390x:v1.14.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
+
 [gcr.io/google_containers/kube-proxy-s390x:v1.14.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
+
+[gcr.io/google_containers/kube-proxy-s390x:v1.14.5 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.14.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
@@ -361,6 +369,8 @@
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.13.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
+[gcr.io/google_containers/kube-proxy-s390x:v1.13.9 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
+
 [gcr.io/google_containers/kube-proxy-s390x:v1.13.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.13.8 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
@@ -390,6 +400,8 @@
 [gcr.io/google_containers/kube-proxy-s390x:v1.13.2 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
+
+[gcr.io/google_containers/kube-proxy-s390x:v1.13.10-beta.0 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
 [gcr.io/google_containers/kube-proxy-s390x:v1.13.1 √](https://hub.docker.com/r/sqeven/kube-proxy-s390x/tags/)
 
