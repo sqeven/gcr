@@ -1,8 +1,6 @@
 [gcr.io/google-containers/hyperkube-arm](https://hub.docker.com/r/sqeven/hyperkube-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/hyperkube-arm:v1.16.0-alpha.3 updated](https://hub.docker.com/r/sqeven/hyperkube-arm/tags/)**
-
 [gcr.io/google_containers/hyperkube-arm:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-arm/tags/)
 
 [gcr.io/google_containers/hyperkube-arm:v1.9.9 √](https://hub.docker.com/r/sqeven/hyperkube-arm/tags/)

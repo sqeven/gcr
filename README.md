@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last seven 2019-08-07 18:55 UTC]
+Google Container Registry Mirror [last seven 2019-08-08 18:55 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
