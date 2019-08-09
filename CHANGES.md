@@ -1,3 +1,29 @@
+## 2019-08-09 
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.7.2 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.7.2 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm:v1.7.2 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm64:v1.7.2 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.7.2 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-s390x:v1.7.2 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.7.0 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.7.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2019-08-07 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.16.0-alpha.3 updated](https://hub.docker.com/r/sqeven/cloud-controller-manager/tags/) 
