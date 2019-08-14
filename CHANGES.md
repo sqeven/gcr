@@ -1,3 +1,14 @@
+## 2019-08-14 
+
+1. [gcr.io/google_containers/cpvpa-amd64:v0.8.1 updated](https://hub.docker.com/r/sqeven/cpvpa-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.12.8-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
+1. [gcr.io/google_containers/node-problem-detector:v0.6.6 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-08-13 
 
 1. [gcr.io/google_containers/conformance:v1.17.0-alpha.0 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
