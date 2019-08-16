@@ -1,3 +1,11 @@
+## 2019-08-16 
+
+1. [gcr.io/google_containers/gke-metadata-server:45654e550b4f8c042b25c5b86269123eb46089f5 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.12.9-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-08-15 
 
 1. [gcr.io/google_containers/gke-metadata-server:4c6f4deefec1a6bc1718ef022367a1879c9d6a4d updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 

@@ -1,7 +1,9 @@
 [gcr.io/google-containers/gke-metadata-server](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
 
 ----
-**[gcr.io/google_containers/gke-metadata-server:4c6f4deefec1a6bc1718ef022367a1879c9d6a4d updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)**
+**[gcr.io/google_containers/gke-metadata-server:45654e550b4f8c042b25c5b86269123eb46089f5 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)**
+
+[gcr.io/google_containers/gke-metadata-server:v0.2.7 √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
 
 [gcr.io/google_containers/gke-metadata-server:v0.2.6 √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
 
@@ -22,6 +24,8 @@
 [gcr.io/google_containers/gke-metadata-server:7c631f64e667357cb20a05c3bb8523b84073ad10 √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
 
 [gcr.io/google_containers/gke-metadata-server:4c6f4deefec1a6bc1718ef022367a1879c9d6a4d √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
+
+[gcr.io/google_containers/gke-metadata-server:45654e550b4f8c042b25c5b86269123eb46089f5 √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
 
 [gcr.io/google_containers/gke-metadata-server:3dd743e75355b14b003af292b6dec8bb50a6a00f √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
 
