@@ -1,3 +1,14 @@
+## 2019-08-17 
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.7.0 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/gke-metadata-server:95633dc2005ae5c1f9764964fb7c78fac719eaf8 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.11.13-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-08-16 
 
 1. [gcr.io/google_containers/gke-metadata-server:45654e550b4f8c042b25c5b86269123eb46089f5 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 

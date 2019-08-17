@@ -1,7 +1,7 @@
 [gcr.io/google-containers/kube-cross](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-cross:v1.12.9-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/)**
+**[gcr.io/google_containers/kube-cross:v1.11.13-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/)**
 
 [gcr.io/google_containers/kube-cross:v1.9.3-2 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
 
@@ -128,6 +128,8 @@
 [gcr.io/google_containers/kube-cross:v1.11.3-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
 
 [gcr.io/google_containers/kube-cross:v1.11.2-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
+
+[gcr.io/google_containers/kube-cross:v1.11.13-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
 
 [gcr.io/google_containers/kube-cross:v1.11.1-2 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
 
