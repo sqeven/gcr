@@ -1,8 +1,6 @@
 [gcr.io/google-containers/gke-metadata-server](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
 
 ----
-**[gcr.io/google_containers/gke-metadata-server:95633dc2005ae5c1f9764964fb7c78fac719eaf8 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)**
-
 [gcr.io/google_containers/gke-metadata-server:v0.2.8 √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
 
 [gcr.io/google_containers/gke-metadata-server:v0.2.7 √](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/)
