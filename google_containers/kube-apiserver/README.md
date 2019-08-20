@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-apiserver](https://hub.docker.com/r/sqeven/kube-apiserver/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-apiserver:v1.16.0-beta.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)**
+
 [gcr.io/google_containers/kube-apiserver:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
 [gcr.io/google_containers/kube-apiserver:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
@@ -531,6 +533,8 @@
 
 [gcr.io/google_containers/kube-apiserver:v1.17.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
+[gcr.io/google_containers/kube-apiserver:v1.16.0-beta.1 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
 [gcr.io/google_containers/kube-apiserver:v1.16.0-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
 [gcr.io/google_containers/kube-apiserver:v1.16.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
@@ -541,7 +545,11 @@
 
 [gcr.io/google_containers/kube-apiserver:v1.16.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
+[gcr.io/google_containers/kube-apiserver:v1.15.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
 [gcr.io/google_containers/kube-apiserver:v1.15.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
+[gcr.io/google_containers/kube-apiserver:v1.15.3 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
 [gcr.io/google_containers/kube-apiserver:v1.15.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
@@ -569,7 +577,11 @@
 
 [gcr.io/google_containers/kube-apiserver:v1.15.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
+[gcr.io/google_containers/kube-apiserver:v1.14.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
 [gcr.io/google_containers/kube-apiserver:v1.14.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
+[gcr.io/google_containers/kube-apiserver:v1.14.6 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
 [gcr.io/google_containers/kube-apiserver:v1.14.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
@@ -643,7 +655,11 @@
 
 [gcr.io/google_containers/kube-apiserver:v1.13.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
+[gcr.io/google_containers/kube-apiserver:v1.13.11-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
 [gcr.io/google_containers/kube-apiserver:v1.13.10-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
+[gcr.io/google_containers/kube-apiserver:v1.13.10 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
 [gcr.io/google_containers/kube-apiserver:v1.13.1 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
