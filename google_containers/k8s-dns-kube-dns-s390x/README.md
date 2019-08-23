@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-kube-dns-s390x](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.15.5 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/)**
-
 [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.15.5 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/)
 
 [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.15.4 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/)
