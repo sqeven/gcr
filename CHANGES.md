@@ -1,3 +1,8 @@
+## 2019-08-27 
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.7.1 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/) 
+
+
 ## 2019-08-22 
 
 1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.5 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
