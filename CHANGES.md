@@ -1,3 +1,8 @@
+## 2019-08-28 
+
+1. [gcr.io/google_containers/node-problem-detector:v0.7.1 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-08-27 
 
 1. [gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.7.1 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-amd64/tags/) 
