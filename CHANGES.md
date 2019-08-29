@@ -1,3 +1,8 @@
+## 2019-08-29 
+
+1. [gcr.io/google_containers/coredns:1.6.2 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
 ## 2019-08-28 
 
 1. [gcr.io/google_containers/node-problem-detector:v0.7.1 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
