@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kubelet-to-gcm](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/) 
 
 ----
+**[gcr.io/google_containers/kubelet-to-gcm:1.2.12 updated](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)**
+
 [gcr.io/google_containers/kubelet-to-gcm:1.2.9 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
 
 [gcr.io/google_containers/kubelet-to-gcm:1.2.8 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
@@ -16,6 +18,8 @@
 [gcr.io/google_containers/kubelet-to-gcm:1.2.3 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
 
 [gcr.io/google_containers/kubelet-to-gcm:1.2.2 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
+
+[gcr.io/google_containers/kubelet-to-gcm:1.2.12 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
 
 [gcr.io/google_containers/kubelet-to-gcm:1.2.11 √](https://hub.docker.com/r/sqeven/kubelet-to-gcm/tags/)
 
