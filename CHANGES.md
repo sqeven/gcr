@@ -1,3 +1,23 @@
+## 2019-09-05 
+
+1. [gcr.io/google_containers/etcd:3.3.15 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.3.15 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.3.15 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.3.15 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.3.15 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.3.15 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
 ## 2019-09-04 
 
 1. [gcr.io/google_containers/conformance:v1.16.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
