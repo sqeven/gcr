@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-09-10 19:13 UTC]
+Google Container Registry Mirror [last seven 2019-09-11 19:14 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 478's gcr.io images
+Total of 479's gcr.io images
 -------
 
 Useage
@@ -389,6 +389,8 @@ Images
 [gcr.io/google_containers/hostexec √](https://hub.docker.com/r/sqeven/hostexec/tags/)
 
 [gcr.io/google_containers/hpa-example √](https://hub.docker.com/r/sqeven/hpa-example/tags/)
+
+[gcr.io/google_containers/hpa-example2 √](https://hub.docker.com/r/sqeven/hpa-example2/tags/)
 
 [gcr.io/google_containers/hugo √](https://hub.docker.com/r/sqeven/hugo/tags/)
 

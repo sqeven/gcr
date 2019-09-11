@@ -523,6 +523,8 @@
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.17.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
+[gcr.io/google_containers/kube-scheduler-arm:v1.16.0-rc.1 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
+
 [gcr.io/google_containers/kube-scheduler-arm:v1.16.0-beta.2 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.16.0-beta.1 √](https://hub.docker.com/r/sqeven/kube-scheduler-arm/tags/)
