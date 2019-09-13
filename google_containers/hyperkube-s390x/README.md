@@ -1,6 +1,8 @@
 [gcr.io/google-containers/hyperkube-s390x](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube-s390x:v1.16.0-rc.2 updated](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)**
+
 [gcr.io/google_containers/hyperkube-s390x:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.9.9 √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
@@ -304,6 +306,8 @@
 [gcr.io/google_containers/hyperkube-s390x:v1.6.0 √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.17.0-alpha.0 √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
+
+[gcr.io/google_containers/hyperkube-s390x:v1.16.0-rc.2 √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.16.0-rc.1 √](https://hub.docker.com/r/sqeven/hyperkube-s390x/tags/)
 
