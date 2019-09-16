@@ -1,3 +1,14 @@
+## 2019-09-16 
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.6.1 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.6.1 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.6.1 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2019-09-13 
 
 1. [gcr.io/google_containers/conformance:v1.16.0-rc.2 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
