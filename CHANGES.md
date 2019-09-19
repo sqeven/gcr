@@ -1,3 +1,17 @@
+## 2019-09-19 
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:e3cce9a52ea0034e94512a470f2f26b672204816 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:e3cce9a52ea0034e94512a470f2f26b672204816 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:9708fd54cfc8cb2935bbc1a6f41572c9dbcc4424 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2019-09-17 
 
 1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.6 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
