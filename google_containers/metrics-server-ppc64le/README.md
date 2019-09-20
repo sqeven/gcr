@@ -1,6 +1,10 @@
 [gcr.io/google-containers/metrics-server-ppc64le](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/metrics-server-ppc64le:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/)**
+
+[gcr.io/google_containers/metrics-server-ppc64le:v0.3.5 √](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/)
+
 [gcr.io/google_containers/metrics-server-ppc64le:v0.3.4 √](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/)
 
 [gcr.io/google_containers/metrics-server-ppc64le:v0.3.2 √](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/)

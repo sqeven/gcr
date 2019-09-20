@@ -1,3 +1,32 @@
+## 2019-09-20 
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-arm:1.7.1 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-arm64:1.7.1 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/cluster-proportional-autoscaler-ppc64le:1.7.1 updated](https://hub.docker.com/r/sqeven/cluster-proportional-autoscaler-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-amd64:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-arm/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm64:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-ppc64le:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-s390x:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-s390x/tags/) 
+
+
 ## 2019-09-19 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:e3cce9a52ea0034e94512a470f2f26b672204816 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
