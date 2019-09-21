@@ -1,8 +1,6 @@
 [gcr.io/google-containers/metrics-server-arm64](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/) 
 
 ----
-**[gcr.io/google_containers/metrics-server-arm64:v0.3.5 updated](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/)**
-
 [gcr.io/google_containers/metrics-server-arm64:v0.3.5 √](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/)
 
 [gcr.io/google_containers/metrics-server-arm64:v0.3.4 √](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/)
