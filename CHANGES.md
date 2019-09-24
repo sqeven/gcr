@@ -1,3 +1,8 @@
+## 2019-09-24 
+
+1. [gcr.io/google_containers/watcher-daemonset:alpha2 updated](https://hub.docker.com/r/sqeven/watcher-daemonset/tags/) 
+
+
 ## 2019-09-23 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.16.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
