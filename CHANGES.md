@@ -1,3 +1,8 @@
+## 2019-09-25 
+
+1. [gcr.io/google_containers/event-exporter:v0.3.1 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/) 
+
+
 ## 2019-09-24 
 
 1. [gcr.io/google_containers/watcher-daemonset:alpha2 updated](https://hub.docker.com/r/sqeven/watcher-daemonset/tags/) 
