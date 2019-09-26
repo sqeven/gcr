@@ -1,3 +1,11 @@
+## 2019-09-26 
+
+1. [gcr.io/google_containers/addon-resizer:1.8.6 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 
+
+
+1. [gcr.io/google_containers/kube-cross:v1.12.10-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-09-25 
 
 1. [gcr.io/google_containers/event-exporter:v0.3.1 updated](https://hub.docker.com/r/sqeven/event-exporter/tags/) 
