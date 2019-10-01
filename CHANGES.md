@@ -1,3 +1,8 @@
+## 2019-10-01 
+
+1. [gcr.io/google_containers/gcp-controller-manager:589980f322ccce64a118660ff58abf6765197c65 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
 ## 2019-09-30 
 
 1. [gcr.io/google_containers/gke-metadata-server:7b28a8ea4ac0da33ba983aab02168e36d3aa0680 updated](https://hub.docker.com/r/sqeven/gke-metadata-server/tags/) 
