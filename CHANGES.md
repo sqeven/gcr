@@ -1,3 +1,11 @@
+## 2019-10-04 
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.8.0 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
+1. [gcr.io/google_containers/watcher-daemonset:alpha4 updated](https://hub.docker.com/r/sqeven/watcher-daemonset/tags/) 
+
+
 ## 2019-10-03 
 
 1. [gcr.io/google_containers/conformance:v1.16.2-beta.0 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 

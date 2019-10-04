@@ -1,12 +1,6 @@
 [gcr.io/google-containers/conformance-arm](https://hub.docker.com/r/sqeven/conformance-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/conformance-arm:v1.16.2-beta.0 updated](https://hub.docker.com/r/sqeven/conformance-arm/tags/)**
-
-**[gcr.io/google_containers/conformance-arm:v1.16.1 updated](https://hub.docker.com/r/sqeven/conformance-arm/tags/)**
-
-**[gcr.io/google_containers/conformance-arm:v1.17.0-alpha.1 updated](https://hub.docker.com/r/sqeven/conformance-arm/tags/)**
-
 [gcr.io/google_containers/conformance-arm:v1.17.0-alpha.1 √](https://hub.docker.com/r/sqeven/conformance-arm/tags/)
 
 [gcr.io/google_containers/conformance-arm:v1.17.0-alpha.0 √](https://hub.docker.com/r/sqeven/conformance-arm/tags/)
