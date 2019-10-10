@@ -1,6 +1,10 @@
 [gcr.io/google-containers/k8s-dns-sidecar-arm64](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/) 
 
 ----
+**[gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.7 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/)**
+
+[gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.7 √](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/)
+
 [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.6 √](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/)
 
 [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.5 √](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/)
