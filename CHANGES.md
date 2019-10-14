@@ -1,3 +1,26 @@
+## 2019-10-14 
+
+1. [gcr.io/google_containers/gcp-controller-manager:9c2dbcf94358dba0e9fcdfbcc3b17a10c439500b updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server:v0.3.6 updated](https://hub.docker.com/r/sqeven/metrics-server/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-amd64:v0.3.6 updated](https://hub.docker.com/r/sqeven/metrics-server-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm:v0.3.6 updated](https://hub.docker.com/r/sqeven/metrics-server-arm/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm64:v0.3.6 updated](https://hub.docker.com/r/sqeven/metrics-server-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-ppc64le:v0.3.6 updated](https://hub.docker.com/r/sqeven/metrics-server-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-s390x:v0.3.6 updated](https://hub.docker.com/r/sqeven/metrics-server-s390x/tags/) 
+
+
 ## 2019-10-12 
 
 1. [gcr.io/google_containers/etcd:3.3.17 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
