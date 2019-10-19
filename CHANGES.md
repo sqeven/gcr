@@ -1,3 +1,8 @@
+## 2019-10-19 
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.1-rc1 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2019-10-18 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.13.8 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
