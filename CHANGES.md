@@ -1,3 +1,8 @@
+## 2019-10-24 
+
+1. [gcr.io/google_containers/kube-cross:v1.13.3-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-10-23 
 
 1. [gcr.io/google_containers/prometheus-to-sd:v0.7.2-gke.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
