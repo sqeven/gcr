@@ -529,6 +529,10 @@
 
 [gcr.io/google_containers/kube-apiserver:v1.2.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
+[gcr.io/google_containers/kube-apiserver:v1.18.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
+[gcr.io/google_containers/kube-apiserver:v1.17.0-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
+
 [gcr.io/google_containers/kube-apiserver:v1.17.0-alpha.3 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)
 
 [gcr.io/google_containers/kube-apiserver:v1.17.0-alpha.2 √](https://hub.docker.com/r/sqeven/kube-apiserver/tags/)

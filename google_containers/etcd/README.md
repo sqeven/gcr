@@ -5,6 +5,10 @@
 
 [gcr.io/google_containers/etcd:v2.0.3 √](https://hub.docker.com/r/sqeven/etcd/tags/)
 
+[gcr.io/google_containers/etcd:3.4.3-0 √](https://hub.docker.com/r/sqeven/etcd/tags/)
+
+[gcr.io/google_containers/etcd:3.4.3 √](https://hub.docker.com/r/sqeven/etcd/tags/)
+
 [gcr.io/google_containers/etcd:3.4.2-0 √](https://hub.docker.com/r/sqeven/etcd/tags/)
 
 [gcr.io/google_containers/etcd:3.4.2 √](https://hub.docker.com/r/sqeven/etcd/tags/)

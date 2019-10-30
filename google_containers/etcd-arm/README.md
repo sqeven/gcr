@@ -1,6 +1,10 @@
 [gcr.io/google-containers/etcd-arm](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
 
 ----
+[gcr.io/google_containers/etcd-arm:3.4.3-0 √](https://hub.docker.com/r/sqeven/etcd-arm/tags/)
+
+[gcr.io/google_containers/etcd-arm:3.4.3 √](https://hub.docker.com/r/sqeven/etcd-arm/tags/)
+
 [gcr.io/google_containers/etcd-arm:3.4.2-0 √](https://hub.docker.com/r/sqeven/etcd-arm/tags/)
 
 [gcr.io/google_containers/etcd-arm:3.4.2 √](https://hub.docker.com/r/sqeven/etcd-arm/tags/)
