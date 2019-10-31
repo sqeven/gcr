@@ -1,3 +1,11 @@
+## 2019-10-31 
+
+1. [gcr.io/google_containers/gcp-controller-manager:2cb57f2f71eefdcaa422c60cf89b2c54ca4f00b4 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/node-problem-detector:v0.8.0 updated](https://hub.docker.com/r/sqeven/node-problem-detector/tags/) 
+
+
 ## 2019-10-30 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.7.2 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
