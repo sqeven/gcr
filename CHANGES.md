@@ -1,3 +1,23 @@
+## 2019-11-02 
+
+1. [gcr.io/google_containers/debian-base:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-amd64:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm64:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-ppc64le:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-s390x:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-s390x/tags/) 
+
+
 ## 2019-10-31 
 
 1. [gcr.io/google_containers/gcp-controller-manager:2cb57f2f71eefdcaa422c60cf89b2c54ca4f00b4 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
