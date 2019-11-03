@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-base-amd64](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/debian-base-amd64:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/)**
-
 [gcr.io/google_containers/debian-base-amd64:v2.0.0 √](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/)
 
 [gcr.io/google_containers/debian-base-amd64:v1.0.0 √](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/)
