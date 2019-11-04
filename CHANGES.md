@@ -1,3 +1,26 @@
+## 2019-11-04 
+
+1. [gcr.io/google_containers/debian-iptables:v12.0.0 updated](https://hub.docker.com/r/sqeven/debian-iptables/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v12.0.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm:v12.0.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm64:v12.0.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-ppc64le:v12.0.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-s390x:v12.0.0 updated](https://hub.docker.com/r/sqeven/debian-iptables-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/visio-stencil-creator:v1.0 updated](https://hub.docker.com/r/sqeven/visio-stencil-creator/tags/) 
+
+
 ## 2019-11-02 
 
 1. [gcr.io/google_containers/debian-base:v2.0.0 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 

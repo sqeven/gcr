@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last seven 2019-11-03 19:37 UTC]
+Google Container Registry Mirror [last seven 2019-11-04 19:37 UTC]
 -------
 
 [![Seven Status](https://travis-ci.org/sqeven/gcr.svg?branch=seven)](https://travis-ci.org/sqeven/gcr)
 
-Total of 479's gcr.io images
+Total of 480's gcr.io images
 -------
 
 Useage
@@ -951,6 +951,8 @@ Images
 [gcr.io/google_containers/ubuntu-slim-ppc64le √](https://hub.docker.com/r/sqeven/ubuntu-slim-ppc64le/tags/)
 
 [gcr.io/google_containers/update-demo √](https://hub.docker.com/r/sqeven/update-demo/tags/)
+
+[gcr.io/google_containers/visio-stencil-creator √](https://hub.docker.com/r/sqeven/visio-stencil-creator/tags/)
 
 [gcr.io/google_containers/volume-ceph √](https://hub.docker.com/r/sqeven/volume-ceph/tags/)
 
