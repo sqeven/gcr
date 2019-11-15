@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-iptables-arm64](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/) 
 
 ----
-**[gcr.io/google_containers/debian-iptables-arm64:v12.0.1 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/)**
-
 [gcr.io/google_containers/debian-iptables-arm64:v9 √](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/)
 
 [gcr.io/google_containers/debian-iptables-arm64:v8 √](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/)
