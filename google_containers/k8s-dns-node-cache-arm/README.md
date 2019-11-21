@@ -1,6 +1,10 @@
 [gcr.io/google-containers/k8s-dns-node-cache-arm](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/) 
 
 ----
+**[gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.8 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/)**
+
+[gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.8 √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/)
+
 [gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.7 √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/)
 
 [gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.6 √](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/)
