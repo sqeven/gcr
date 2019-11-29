@@ -1,3 +1,8 @@
+## 2019-11-29 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.17.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
 ## 2019-11-28 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.15.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
