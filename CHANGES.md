@@ -1,3 +1,11 @@
+## 2019-12-02 
+
+1. [gcr.io/google_containers/addon-resizer:1.8.7 updated](https://hub.docker.com/r/sqeven/addon-resizer/tags/) 
+
+
+1. [gcr.io/google_containers/git-sync:v3.1.3 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
 ## 2019-11-29 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.17.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
