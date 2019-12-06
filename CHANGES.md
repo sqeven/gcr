@@ -1,3 +1,14 @@
+## 2019-12-06 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.13.9 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/gcp-controller-manager:ef04ab8ea69a9b2e932713d22e0392ab524cc851 updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/gcp-controller-manager:38e09015388b6e3a58918611cfe08374bf0f97dd updated](https://hub.docker.com/r/sqeven/gcp-controller-manager/tags/) 
+
+
 ## 2019-12-04 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.0-rc3 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
