@@ -1,3 +1,8 @@
+## 2019-12-12 
+
+1. [gcr.io/google_containers/netd-amd64:latest updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
+
+
 ## 2019-12-07 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 

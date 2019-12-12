@@ -295,6 +295,8 @@
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.18.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.17.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.17.0-rc.2 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.17.0-rc.1 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
@@ -313,7 +315,13 @@
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.17.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.17.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.16.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.16.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.16.4 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.16.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
@@ -347,7 +355,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.16.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.15.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.15.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.15.7 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.15.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
@@ -425,7 +437,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.14.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.14.11-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.14.10-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-s390x:v1.14.10 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-s390x:v1.14.1 √](https://hub.docker.com/r/sqeven/kube-controller-manager-s390x/tags/)
 
