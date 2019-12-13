@@ -1,3 +1,32 @@
+## 2019-12-13 
+
+1. [gcr.io/google_containers/cadvisor:latest updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/cadvisor:v0.35.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/coredns:1.6.6 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.8.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.8.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm:v1.8.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm64:v1.8.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.8.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-s390x:v1.8.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-s390x/tags/) 
+
+
 ## 2019-12-12 
 
 1. [gcr.io/google_containers/netd-amd64:latest updated](https://hub.docker.com/r/sqeven/netd-amd64/tags/) 
