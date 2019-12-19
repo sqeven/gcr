@@ -1,3 +1,8 @@
+## 2019-12-19 
+
+1. [gcr.io/google_containers/toolbox:20191218-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
+
+
 ## 2019-12-18 
 
 1. [gcr.io/google_containers/conformance:v1.18.0-alpha.1 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 

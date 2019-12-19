@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-apiserver-arm](https://hub.docker.com/r/sqeven/kube-apiserver-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-apiserver-arm:v1.18.0-alpha.1 updated](https://hub.docker.com/r/sqeven/kube-apiserver-arm/tags/)**
-
 [gcr.io/google_containers/kube-apiserver-arm:v1.9.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm/tags/)
 
 [gcr.io/google_containers/kube-apiserver-arm:v1.9.9 √](https://hub.docker.com/r/sqeven/kube-apiserver-arm/tags/)
