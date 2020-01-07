@@ -1,3 +1,8 @@
+## 2020-01-07 
+
+1. [gcr.io/google_containers/kube-cross:v1.13.5-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
+
+
 ## 2019-12-20 
 
 1. [gcr.io/google_containers/kube-state-metrics:v1.9.0 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
