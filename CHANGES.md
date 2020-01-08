@@ -1,3 +1,8 @@
+## 2020-01-08 
+
+1. [gcr.io/google_containers/git-sync:v3.1.4 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
 ## 2020-01-07 
 
 1. [gcr.io/google_containers/kube-cross:v1.13.5-1 updated](https://hub.docker.com/r/sqeven/kube-cross/tags/) 
