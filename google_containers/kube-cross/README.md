@@ -101,6 +101,8 @@
 
 [gcr.io/google_containers/kube-cross:v1.4.2-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
 
+[gcr.io/google_containers/kube-cross:v1.13.6-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
+
 [gcr.io/google_containers/kube-cross:v1.13.5-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
 
 [gcr.io/google_containers/kube-cross:v1.13.4-1 √](https://hub.docker.com/r/sqeven/kube-cross/tags/)
