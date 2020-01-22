@@ -477,11 +477,17 @@
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.3.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.18.0-alpha.2 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.18.0-alpha.1 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.18.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.17.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.17.2-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.17.2 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.17.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
@@ -507,7 +513,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.17.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.16.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.16.6-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.16.6 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.16.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
@@ -551,6 +561,8 @@
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.15.9 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.8 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
@@ -580,6 +592,8 @@
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.2 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-arm64:v1.15.10-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.15.1 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm64/tags/)
 

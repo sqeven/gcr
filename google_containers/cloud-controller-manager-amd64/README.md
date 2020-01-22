@@ -211,6 +211,8 @@
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.9-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
 
+[gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.9 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
+
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.8-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.8 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
@@ -240,6 +242,8 @@
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.2 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.1-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.10-beta.0 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.15.1 √](https://hub.docker.com/r/sqeven/cloud-controller-manager-amd64/tags/)
 
