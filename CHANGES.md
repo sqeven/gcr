@@ -1,3 +1,8 @@
+## 2020-01-31 
+
+1. [gcr.io/google_containers/git-sync:v3.1.5 updated](https://hub.docker.com/r/sqeven/git-sync/tags/) 
+
+
 ## 2020-01-30 
 
 1. [gcr.io/google_containers/managed-certificate-controller:v0.4.0 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
