@@ -1,8 +1,6 @@
 [gcr.io/google-containers/conformance-arm64](https://hub.docker.com/r/sqeven/conformance-arm64/tags/) 
 
 ----
-**[gcr.io/google_containers/conformance-arm64:v1.18.0-alpha.5 updated](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)**
-
 [gcr.io/google_containers/conformance-arm64:v1.18.0-alpha.5 √](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)
 
 [gcr.io/google_containers/conformance-arm64:v1.18.0-alpha.3 √](https://hub.docker.com/r/sqeven/conformance-arm64/tags/)

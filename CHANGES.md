@@ -1,3 +1,26 @@
+## 2020-02-14 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.10.2 updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/pause:3.2 updated](https://hub.docker.com/r/sqeven/pause/tags/) 
+
+
+1. [gcr.io/google_containers/pause-amd64:3.2 updated](https://hub.docker.com/r/sqeven/pause-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/pause-arm:3.2 updated](https://hub.docker.com/r/sqeven/pause-arm/tags/) 
+
+
+1. [gcr.io/google_containers/pause-arm64:3.2 updated](https://hub.docker.com/r/sqeven/pause-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/pause-ppc64le:3.2 updated](https://hub.docker.com/r/sqeven/pause-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/pause-s390x:3.2 updated](https://hub.docker.com/r/sqeven/pause-s390x/tags/) 
+
+
 ## 2020-02-13 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.16.4 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
