@@ -1,3 +1,8 @@
+## 2020-02-15 
+
+1. [gcr.io/google_containers/coredns:1.6.7 updated](https://hub.docker.com/r/sqeven/coredns/tags/) 
+
+
 ## 2020-02-14 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.10.2 updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 

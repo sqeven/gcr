@@ -1,8 +1,6 @@
 [gcr.io/google-containers/pause](https://hub.docker.com/r/sqeven/pause/tags/) 
 
 ----
-**[gcr.io/google_containers/pause:3.2 updated](https://hub.docker.com/r/sqeven/pause/tags/)**
-
 [gcr.io/google_containers/pause:test2 √](https://hub.docker.com/r/sqeven/pause/tags/)
 
 [gcr.io/google_containers/pause:test √](https://hub.docker.com/r/sqeven/pause/tags/)
