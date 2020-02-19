@@ -1,10 +1,6 @@
 [gcr.io/google-containers/conformance](https://hub.docker.com/r/sqeven/conformance/tags/) 
 
 ----
-**[gcr.io/google_containers/conformance:v1.19.0-alpha.0 updated](https://hub.docker.com/r/sqeven/conformance/tags/)**
-
-**[gcr.io/google_containers/conformance:v1.18.0-beta.0 updated](https://hub.docker.com/r/sqeven/conformance/tags/)**
-
 [gcr.io/google_containers/conformance:v1.19.0-alpha.0 √](https://hub.docker.com/r/sqeven/conformance/tags/)
 
 [gcr.io/google_containers/conformance:v1.18.0-beta.0 √](https://hub.docker.com/r/sqeven/conformance/tags/)

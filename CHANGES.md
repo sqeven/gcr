@@ -1,3 +1,23 @@
+## 2020-02-19 
+
+1. [gcr.io/google_containers/debian-base:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-amd64:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm64:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-ppc64le:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-s390x:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base-s390x/tags/) 
+
+
 ## 2020-02-18 
 
 1. [gcr.io/google_containers/conformance:v1.19.0-alpha.0 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
