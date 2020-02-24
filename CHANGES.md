@@ -1,3 +1,26 @@
+## 2020-02-24 
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.8.2 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-arm64:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-ppc64le:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-s390x:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-s390x/tags/) 
+
+
 ## 2020-02-19 
 
 1. [gcr.io/google_containers/debian-base:v1.0.1 updated](https://hub.docker.com/r/sqeven/debian-base/tags/) 
