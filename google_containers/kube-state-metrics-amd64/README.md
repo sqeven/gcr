@@ -1,8 +1,6 @@
 [gcr.io/google-containers/kube-state-metrics-amd64](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-state-metrics-amd64:v1.9.5 updated](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/)**
-
 [gcr.io/google_containers/kube-state-metrics-amd64:v1.9.5 √](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/)
 
 [gcr.io/google_containers/kube-state-metrics-amd64:v1.9.0 √](https://hub.docker.com/r/sqeven/kube-state-metrics-amd64/tags/)
