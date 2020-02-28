@@ -1,6 +1,10 @@
 [gcr.io/google-containers/nginx-ingress-controller-ppc64le](https://hub.docker.com/r/sqeven/nginx-ingress-controller-ppc64le/tags/) 
 
 ----
+**[gcr.io/google_containers/nginx-ingress-controller-ppc64le:0.9.0-beta.9 updated](https://hub.docker.com/r/sqeven/nginx-ingress-controller-ppc64le/tags/)**
+
+[gcr.io/google_containers/nginx-ingress-controller-ppc64le:0.9.0-beta.9 √](https://hub.docker.com/r/sqeven/nginx-ingress-controller-ppc64le/tags/)
+
 [gcr.io/google_containers/nginx-ingress-controller-ppc64le:0.9.0-beta.15 √](https://hub.docker.com/r/sqeven/nginx-ingress-controller-ppc64le/tags/)
 
 [gcr.io/google_containers/nginx-ingress-controller-ppc64le:0.9.0-beta.14 √](https://hub.docker.com/r/sqeven/nginx-ingress-controller-ppc64le/tags/)
