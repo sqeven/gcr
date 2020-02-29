@@ -1,3 +1,14 @@
+## 2020-02-29 
+
+1. [gcr.io/google_containers/cadvisor:v0.32.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/cadvisor:latest updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/toolbox:20190523-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
+
+
 ## 2020-02-28 
 
 1. [gcr.io/google_containers/cadvisor:v.25.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
