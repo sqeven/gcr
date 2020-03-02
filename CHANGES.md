@@ -1,3 +1,11 @@
+## 2020-03-02 
+
+1. [gcr.io/google_containers/cadvisor:v0.36.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.9.1 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
 ## 2020-02-29 
 
 1. [gcr.io/google_containers/cadvisor:v0.32.0 updated](https://hub.docker.com/r/sqeven/cadvisor/tags/) 
