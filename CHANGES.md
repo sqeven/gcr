@@ -1,3 +1,53 @@
+## 2020-03-04 
+
+1. [gcr.io/google_containers/addon-resizer-amd64:2.3 updated](https://hub.docker.com/r/sqeven/addon-resizer-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/addon-resizer-arm:2.3 updated](https://hub.docker.com/r/sqeven/addon-resizer-arm/tags/) 
+
+
+1. [gcr.io/google_containers/addon-resizer-arm64:2.3 updated](https://hub.docker.com/r/sqeven/addon-resizer-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/addon-resizer-ppc64le:2.3 updated](https://hub.docker.com/r/sqeven/addon-resizer-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/addon-resizer-s390x:2.3 updated](https://hub.docker.com/r/sqeven/addon-resizer-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables:v11.0.3 updated](https://hub.docker.com/r/sqeven/debian-iptables/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v11.0.3 updated](https://hub.docker.com/r/sqeven/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm:v11.0.3 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm64:v11.0.3 updated](https://hub.docker.com/r/sqeven/debian-iptables-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-ppc64le:v11.0.3 updated](https://hub.docker.com/r/sqeven/debian-iptables-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-s390x:v11.0.3 updated](https://hub.docker.com/r/sqeven/debian-iptables-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-dns-perf-client-amd64:2.0 updated](https://hub.docker.com/r/sqeven/kube-dns-perf-client-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.9.2 updated](https://hub.docker.com/r/sqeven/prometheus-to-sd/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-admission-controller:0.7.0 updated](https://hub.docker.com/r/sqeven/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:0.7.0 updated](https://hub.docker.com/r/sqeven/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:0.7.0 updated](https://hub.docker.com/r/sqeven/vpa-updater/tags/) 
+
+
 ## 2020-03-03 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
