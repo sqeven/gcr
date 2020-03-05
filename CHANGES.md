@@ -1,3 +1,77 @@
+## 2020-03-05 
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-arm64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-ppc64le:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny-s390x:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-arm64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-ppc64le:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-kube-dns-s390x:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-amd64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-arm:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-arm64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-ppc64le:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-node-cache-s390x:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-node-cache-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-amd64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-arm64:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-ppc64le:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-dns-sidecar-s390x:1.15.10 updated](https://hub.docker.com/r/sqeven/k8s-dns-sidecar-s390x/tags/) 
+
+
 ## 2020-03-04 
 
 1. [gcr.io/google_containers/addon-resizer-amd64:2.3 updated](https://hub.docker.com/r/sqeven/addon-resizer-amd64/tags/) 
