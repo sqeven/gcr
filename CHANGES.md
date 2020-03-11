@@ -1,3 +1,32 @@
+## 2020-03-11 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.18.0-beta.1 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/conformance:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-amd64:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-arm:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance-arm/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-arm64:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-ppc64le:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/conformance-s390x:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/conformance-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/hyperkube/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.6.3 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2020-03-10 
 
 1. [gcr.io/google_containers/hyperkube-amd64:v1.18.0-beta.2 updated](https://hub.docker.com/r/sqeven/hyperkube-amd64/tags/) 
