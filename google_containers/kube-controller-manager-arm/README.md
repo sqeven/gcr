@@ -539,7 +539,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-arm:v1.18.0-alpha.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm:v1.17.5-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm:v1.17.4-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-arm:v1.17.4 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm:v1.17.3-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
@@ -573,7 +577,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-arm:v1.17.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm:v1.16.9-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm:v1.16.8-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-arm:v1.16.8 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm:v1.16.7-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
@@ -657,7 +665,11 @@
 
 [gcr.io/google_containers/kube-controller-manager-arm:v1.15.1-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
+[gcr.io/google_containers/kube-controller-manager-arm:v1.15.12-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
+
 [gcr.io/google_containers/kube-controller-manager-arm:v1.15.11-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
+
+[gcr.io/google_containers/kube-controller-manager-arm:v1.15.11 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm:v1.15.10-beta.0 √](https://hub.docker.com/r/sqeven/kube-controller-manager-arm/tags/)
 
