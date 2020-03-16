@@ -1,3 +1,14 @@
+## 2020-03-16 
+
+1. [gcr.io/google_containers/managed-certificate-controller:v0.4.1 updated](https://hub.docker.com/r/sqeven/managed-certificate-controller/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:97dad60fbfc0feab9784d2ce1f2578e8fd1050aa updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:97dad60fbfc0feab9784d2ce1f2578e8fd1050aa updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2020-03-12 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.18.0 updated](https://hub.docker.com/r/sqeven/cluster-autoscaler/tags/) 
