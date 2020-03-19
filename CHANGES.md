@@ -1,3 +1,8 @@
+## 2020-03-19 
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.9.1 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2020-03-18 
 
 1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.9.0 updated](https://hub.docker.com/r/sqeven/ingress-gce-glbc-amd64/tags/) 
