@@ -1,8 +1,6 @@
 [gcr.io/google-containers/k8s-dns-kube-dns-arm](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/k8s-dns-kube-dns-arm:1.15.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/)**
-
 [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.15.9 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/)
 
 [gcr.io/google_containers/k8s-dns-kube-dns-arm:1.15.8 √](https://hub.docker.com/r/sqeven/k8s-dns-kube-dns-arm/tags/)
