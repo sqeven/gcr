@@ -1,3 +1,26 @@
+## 2020-03-23 
+
+1. [gcr.io/google_containers/etcd:3.4.4 updated](https://hub.docker.com/r/sqeven/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.4.4 updated](https://hub.docker.com/r/sqeven/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.4.4 updated](https://hub.docker.com/r/sqeven/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.4.4 updated](https://hub.docker.com/r/sqeven/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.4.4.0 updated](https://hub.docker.com/r/sqeven/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.4.4 updated](https://hub.docker.com/r/sqeven/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.4.4 updated](https://hub.docker.com/r/sqeven/etcd-s390x/tags/) 
+
+
 ## 2020-03-20 
 
 1. [gcr.io/google_containers/k8s-dns-dnsmasq-nanny:1.15.11 updated](https://hub.docker.com/r/sqeven/k8s-dns-dnsmasq-nanny/tags/) 
