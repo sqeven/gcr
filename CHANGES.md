@@ -1,3 +1,8 @@
+## 2020-03-28 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v1.0 updated](https://hub.docker.com/r/sqeven/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2020-03-26 
 
 1. [gcr.io/google_containers/conformance:v1.19.0-alpha.1 updated](https://hub.docker.com/r/sqeven/conformance/tags/) 
