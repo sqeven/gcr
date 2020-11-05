@@ -1,3 +1,8 @@
+## 2020-11-05 
+
+1. [gcr.io/google_containers/toolbox:20201104-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/) 
+
+
 ## 2020-11-04 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:5062740f3792d6974c7225edf47be0c04512462f updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 

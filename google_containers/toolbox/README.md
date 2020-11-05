@@ -1,7 +1,11 @@
 [gcr.io/google-containers/toolbox](https://hub.docker.com/r/sqeven/toolbox/tags/) 
 
 ----
+**[gcr.io/google_containers/toolbox:20201104-00 updated](https://hub.docker.com/r/sqeven/toolbox/tags/)**
+
 [gcr.io/google_containers/toolbox:latest √](https://hub.docker.com/r/sqeven/toolbox/tags/)
+
+[gcr.io/google_containers/toolbox:20201104-00 √](https://hub.docker.com/r/sqeven/toolbox/tags/)
 
 [gcr.io/google_containers/toolbox:20200715-00 √](https://hub.docker.com/r/sqeven/toolbox/tags/)
 
