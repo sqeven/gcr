@@ -1,3 +1,14 @@
+## 2020-11-24 
+
+1. [gcr.io/google_containers/ingress-gce-404-server-with-metrics-amd64:v1.10.11 updated](https://hub.docker.com/r/sqeven/ingress-gce-404-server-with-metrics-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:e04e429f45bb4a2d98e3da54ceedc0b57e97d272 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:e04e429f45bb4a2d98e3da54ceedc0b57e97d272 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2020-11-14 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:b1fb8bb4ab1aa6e811858eb85a0d0d955eb99c3a updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
