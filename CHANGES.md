@@ -1,3 +1,23 @@
+## 2021-01-15 
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:c358b0cf1affce0f63376b3de6b5742c0fe62a9b updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:993873c00288a4434516ce465e8fc126d06216fb updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:fcd1323b9f0f846f3da12bf21696dd85e6027304 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:c358b0cf1affce0f63376b3de6b5742c0fe62a9b updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:993873c00288a4434516ce465e8fc126d06216fb updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:fcd1323b9f0f846f3da12bf21696dd85e6027304 updated](https://hub.docker.com/r/sqeven/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2021-01-09 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:34f0f5024af1f26b492285fd9a0bb84d669c24e6 updated](https://hub.docker.com/r/sqeven/nvidia-gpu-device-plugin/tags/) 
